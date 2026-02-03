@@ -220,9 +220,10 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 
 . Rythme lent, favorisant un état serein
 
-. Univers sonore contemplatif, soutenant les images projetées à l’écran
+. Univers sonore contemplatif, Irréel, comme dans un rêve, soutenant les images projetées à l’écran
 
 . Des sons de captation pour soutenir l’interaction
+
 
 ## Intention
 
