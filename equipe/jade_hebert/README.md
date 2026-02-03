@@ -31,12 +31,11 @@ Tâches principales:
 Tâches principales:
 
 - Assemblage de la maquette 1 <br>
-  - Avoir en notre possession au moins deux télévisions
+  - Avoir en notre possession toutes les télévisions
   - Avoir un montage sonore combinant l'ambiance + effets sonores d'environnement (Manel)
-  - Faire une animation des lumières LED (Patricia)
+  - Faire une animation des lumières LED
   - Assembler une installation qui comprend deux haut-parleurs, un faisceau lumineux et la caméra
   - Faire fonctionner les écrans (Félix)
-  - Pouvoir inclure les yeu des interacteurs dans la séquence vidéo (Edelwyn)
 
 <img src="equipe/jade_hebert/maquette1_plan.jpeg" 
      alt="Plan de la maquette 1" 
@@ -61,7 +60,7 @@ Tâches principales:
 - Assurer le bon déroulement du tournage et de la documentation <br>
 - Rédiger le dossier de presse <br>
 - Assemblage de la maquette 2 <br>
-  - Avoir en notre possession toutes les télévisions
+  - Pouvoir inclure les yeu des interacteurs dans la séquence vidéo (Edelwyn)
   - Avoir le montage sonore combinant l'ambiance + effets sonores d'environnement et d'animaux (Manel)
   - Faire une animation des lumières DNX (2)
   - Assembler une installation qui comprend deux haut-parleurs, deux faisceaux lumineux et deux caméras

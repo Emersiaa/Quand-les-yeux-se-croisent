@@ -3,7 +3,7 @@
 ## Équipements
 
 **Équipement audiovisuel**
-| Nom | Disponibilité | Quantité |
+| <div style="width:340px">Nom</div> | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
 | Télévision cathodique | ✔ | 1 |
 | Caméra Sony A6500| ✔ | 2 |
@@ -22,20 +22,20 @@
 | Casque écouteur | ✔s | 1 |
 
 **Éclairage**
-| Nom | Disponibilité | Quantité |
+| <div style="width:340px">Nom</div> | Disponibilité | Quantité |
 |--------------------|---------------|----------|
 | Lumière LED | ✔ | 4 |
 | Lumière DMX | ✔ | 4 |
 | Spotlight | ✔ | 2 |
 
 **Accessoires et décor**
-| Nom | Disponibilité | Quantité |
+| <div style="width:325px">Nom</div> | Disponibilité | Quantité |
 |-----------------------------|---------------|----------|
 | Bouquet de fleurs blanches | X | 6 |
 | Tissu noir | ✔ | à determiner |
 
 **Câblage**
-| Nom | Disponibilité | Quantité |
+| <div style="width:340px">Nom</div> | Disponibilité | Quantité |
 |-------------------------------|---------------|----------|
 | Câble RCA | ✔ | 1 |
 | Adaptateur AV vers HDMI / Display Port | ✔ | 1 |

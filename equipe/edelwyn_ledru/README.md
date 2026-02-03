@@ -20,7 +20,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Assemblage de la maquette 1 <br>
   - Faire l'intégration de l'effet morph et glitch dans Touchdesigner
-  - Pouvoir inclure les yeux des interacteurs dans la séquence vidéo
   - Éviter que la captation alterne entre 2 yeux
   - ajouter et connecter l'audio de Manel
 - Tournage bande-annonce<br>
@@ -36,7 +35,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 5 - Preparation de l'installation
 
 - Assemblage de la maquette 2 <br>
-  - Pouvoir inclure la captation des DEUX caméras dans la séquence vidéo (Edelwyn)
+  - Pouvoir inclure les yeux des interacteurs dans la séquence vidéo
+  - Pouvoir inclure la captation des DEUX caméras dans la séquence vidéo
 - Prise de photo pour la documentation<br>
 - Peindre les boîtes<br>
 - Participation au montage vidéo bande-annonce
@@ -72,13 +72,16 @@ Correction planification et compléter le plan plantation 2d
 
 Création du logo Émersia
 
-#### Mercredi 
+#### Mercredi
+
 Intégration dans Touchdesigner :
- - Faire le comportement quand on capte l'oeil, ca change les bâtons LED en blanc
- - Regler le format des médias
- - S'assurer que la base fonctionne
+
+- Faire le comportement quand on capte l'oeil, ca change les bâtons LED en blanc
+- Regler le format des médias
+- S'assurer que la base fonctionne
 
 #### Jeudi
+
 - Paufinage de l'effet de flou sur l'oeil capté
 
 #### Vendredi
@@ -87,7 +90,8 @@ Intégration dans Touchdesigner :
 
 #### Lundi
 
-#### Mardi 
+#### Mardi
+
 - Paufinage de l'effet glitch
 - Optimization du fichier .toe
 
