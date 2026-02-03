@@ -220,7 +220,7 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 
 . Rythme lent, favorisant un état serein
 
-.Univers sonore contemplatif et crédible, soutenant les images projetées à l’écran
+. Univers sonore contemplatif et crédible, soutenant les images projetées à l’écran
 
 ## Intention
 
