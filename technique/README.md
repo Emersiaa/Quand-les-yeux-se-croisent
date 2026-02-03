@@ -5,23 +5,28 @@
 **Équipement audiovisuel**
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
-| Télévision cathodique | 2 | 4 |
+| Télévision cathodique | ✔ | 1 |
 | Caméra Sony A6500| ✔ | 2 |
+| trepied| ✔ | 2 |
+| Clef touch designer | ✔ | 1 |
 | Ordinateur | ✔ | 1 |
+| Laptop | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
 | Carte de capture HDMI | ✔ | 2 |
 | Pile de camera filaire | ✔ | 2 |
 | Switch Ethernet poe | ✔ | 1 |
 | Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
+| Raspberry pie 4 ndi (Guillaume) | ✔ | 4 |
+| pole extensible avec pince mathews | ✔ | 4 |
+| Casque écouteur | ✔s | 1 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
 |--------------------|---------------|----------|
-| Ampoule lumineuse | X | à revoir |
 | Lumière LED | ✔ | 4 |
 | Lumière DMX | ✔ | 4 |
-| Spotlight | ✔ | 1 |
+| Spotlight | ✔ | 2 |
 
 **Accessoires et décor**
 | Nom | Disponibilité | Quantité |
@@ -32,14 +37,15 @@
 **Câblage**
 | Nom | Disponibilité | Quantité |
 |-------------------------------|---------------|----------|
-| Câble RCA | à demandé | 4 |
-| Adaptateur AV vers HDMI / Display Port | à demandé | 4 |
+| Câble RCA | ✔ | 1 |
+| Adaptateur AV vers HDMI / Display Port | ✔ | 1 |
 | Câble XLR | ✔ | 4 |
 | Câble Ethernet | ✔ | 9 |
 | Câble Micro USB | ✔ | 2 |
 | Câble HDMI | ✔ | 2 |
 | Câble Display Port | ✔ | 2 |
 | Multiprise | ✔ | 4 |
+| trrs | ✔ | 4 |
 
 ## Logiciels
 
@@ -69,6 +75,10 @@ Créer des expériences auditives interactives avec l'OSC
 
 Connecter avec les lumières avec OBS
 
+### - QLC +
+
+Faire des animations simples pour les lumières DMX
+
 ### - OBS
 
 Relier les expériences visuelles interactive pour les lumières
@@ -84,10 +94,6 @@ Créer des expériences auditives
 ### Branchements
 
 ![](synoptique.png)
-
-### Logiciels
-
-![](plan_logiciels.png)
 
 ## Plan d'implantation
 
