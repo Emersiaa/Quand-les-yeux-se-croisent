@@ -201,8 +201,7 @@ Retour visuel et sensoriel
 Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
 -->
 
-
-## Univers sonore – Immersion naturelle 
+## Univers sonore – Immersion naturelle
 
 Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plonger le visiteur dans une expérience immersive et sensorielle.
 
@@ -210,11 +209,9 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 
 . Ambiance organique et naturaliste, sons de nature (vent, pluie, pas d’animaux)
 
-. Atmosphère apaisante mais contrastée, jouant entre le rassurant et le tendu
-
 . Structure fluide et progressive, favorisant une écoute continue
 
-. Mélodie harmonieuse,  mélancolique, enrichissant les sons de relaxation
+. Mélodie harmonieuse, enrichissant les sons de relaxation
 
 . Texture sonore aérée, laissant respirer l’espace sonore
 
