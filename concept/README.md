@@ -220,7 +220,9 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 
 . Rythme lent, favorisant un état serein
 
-. Univers sonore contemplatif et crédible, soutenant les images projetées à l’écran
+. Univers sonore contemplatif, soutenant les images projetées à l’écran
+
+. Des sons de captation pour soutenir l’interaction
 
 ## Intention
 
@@ -231,3 +233,5 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 . Accompagner les images de manière narrative, renforçant l’expérience visuelle
 
 . Inviter le visiteur à une écoute attentive et introspective
+
+. Avertir les visiteurs de l’interaction
