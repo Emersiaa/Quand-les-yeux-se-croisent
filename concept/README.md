@@ -228,6 +228,6 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 
 . Créer un sentiment de calme et de connexion avec la nature
 
-, Accompagner les images de manière narrative, renforçant l’expérience visuelle
+. Accompagner les images de manière narrative, renforçant l’expérience visuelle
 
 . Inviter le visiteur à une écoute attentive et introspective
