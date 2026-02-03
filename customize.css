@@ -1,18 +1,18 @@
 /* prettier-ignore */
 :root {
   /* Color */
-  --color-bg  : #1f2428;
-  --color-text: #ddd;
+  --color-bg  : #efefef;
+  --color-text: #022301;
 
   /* Cover */
-  --cover-bg-brightness: 0.75;
+  --cover-bg-brightness: 0.95;
 
   /* Elements */
-  --codeblock-comment    : #516e7a;
+  --codeblock-comment    : #f189ff;
   --codeblock-function   : #f07178;
   --codeblock-keyword    : #c2e78c;
   --codeblock-operator   : #ffcb6b;
-  --codeblock-punctuation: #89ddff;
+  --codeblock-punctuation: #ff00aa;
   --codeblock-selector   : #ffcb6b;
   --codeblock-tag        : #f07178;
   --codeblock-variable   : #ffcb6b;
@@ -31,7 +31,7 @@
 /* ========================================================================== */
 .cover-main a.button.secondary {
     color: var(--color-text);
-    border-color: rgba(255, 255, 255, 0.5);
+    border-color: rgba(187, 187, 17, 0.5);
   }
 /* Markdown */
 /* ========================================================================== */
@@ -48,7 +48,7 @@
       --callout-border-color: var(--theme-color-4);
     }
 .tip:is(.markdown-section .callout) {
-      --callout-border-color: #115e59; /* Tailwind: teal 800 */
+      --callout-border-color: #ff00aa; /* Tailwind: teal 800 */
     }
 .warning:is(.markdown-section .callout) {
       --callout-border-color: #a16207; /* Tailwind: yellow 700 */
