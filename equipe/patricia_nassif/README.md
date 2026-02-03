@@ -20,7 +20,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3 : Début de production
 
 - Assemblage de la maquette 1
-  - Faire une animation des lumières LED
 - Début du tournage principal
 - Continuer et ou finir la bande d'annonce
 
@@ -34,7 +33,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 5 : Intégration du contenu
 
 - Assemblage de la maquette 2 <br>
-  - Faire une animation des lumières DNX (2)
+- Faire une animation des lumières DNX (2)
 - Poursuite du tournage
 - Intégration des contenus vidéo sur le site web
 - Ajustements visuels et fonctionnels du site
@@ -68,10 +67,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 2
 
 #### Lundi
-
+ 
 #### Mardi
+ - Faire le budget de départ
+ - Commencer le PowerPoint pour notre cohérence visuelle
+ - Commencer le montage de la bande d'annonce
+ - Filmer
 
 #### Mercredi
+- Continuer le montage de la bande d'annonce
 
 #### Jeudi
 
@@ -82,6 +86,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Lundi
 
 #### Mardi
+- Presque terminer le montage de notre bande d'annonce
+- Monter notre installation avec Jade
+- Arranger légèrement les couleurs de notre site
+- Mettre à jour mes tâches 
 
 #### Mercredi
 

@@ -31,12 +31,16 @@ Tâches principales:
 Tâches principales:
 
 - Assemblage de la maquette 1 <br>
-  - Avoir en notre possession au moins deux télévisions
+  - Avoir en notre possession toutes les télévisions
   - Avoir un montage sonore combinant l'ambiance + effets sonores d'environnement (Manel)
-  - Faire une animation des lumières LED (Patricia)
+  - Faire une animation des lumières LED
   - Assembler une installation qui comprend deux haut-parleurs, un faisceau lumineux et la caméra
   - Faire fonctionner les écrans (Félix)
-  - Pouvoir inclure les yeu des interacteurs dans la séquence vidéo (Edelwyn)
+
+<img src="equipe/jade_hebert/maquette1_plan.jpeg" 
+     alt="Plan de la maquette 1" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 - Tests simples pour débogage <br>
 - Établir un manuel de démarrage <br>
 
@@ -56,7 +60,7 @@ Tâches principales:
 - Assurer le bon déroulement du tournage et de la documentation <br>
 - Rédiger le dossier de presse <br>
 - Assemblage de la maquette 2 <br>
-  - Avoir en notre possession toutes les télévisions
+  - Pouvoir inclure les yeu des interacteurs dans la séquence vidéo (Edelwyn)
   - Avoir le montage sonore combinant l'ambiance + effets sonores d'environnement et d'animaux (Manel)
   - Faire une animation des lumières DNX (2)
   - Assembler une installation qui comprend deux haut-parleurs, deux faisceaux lumineux et deux caméras
@@ -110,7 +114,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
-| Heure | Tâches à faire                                                              |
+| Heure | <div style="width:480px">Tâches accomplies </div>                           |
 | ----- | --------------------------------------------------------------------------- |
 | 09:00 | Présentation du projet aux ensignants                                       |
 | 14:30 | Réunion d’alignement d’équipe (son et logo)                                 |
@@ -118,25 +122,43 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
-| Heure | Tâches à faire                                                |
-| ----- | ------------------------------------------------------------- |
-| 10:00 | Réunion d’alignement d’équipe (quoi faire pour la maquette 1) |
-| 11:00 | Rencontre avec Guillaume pour l'équipement                    |
-| :00   |                                                               |
-
-### Idéalisation de la maquette 1
-
-![](maquette1.jpeg)
+| Heure | <div style="width:480px">Tâches accomplies </div>                  |
+| ----- | ------------------------------------------------------------------ |
+| 10:00 | Réunion d’alignement d’équipe (quoi faire pour la maquette 1)      |
+| 11:00 | Rencontre avec Guillaume pour l'équipement                         |
+| 14:00 | Achat du rayonnage et compréhension du fonctionnement du raspberry |
 
 #### Jeudi
 
-#### Vendredi
+| Heure | <div style="width:480px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 10:30 | Récupération des télévisions chez Guillaume       |
+| 13:00 | Test de l'affichage des télévisions               |
+
+<img src="equipe/jade_hebert/av1.jpeg" 
+     alt="Télévisions de Guillaume" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 3
 
 #### Lundi
 
+| Heure | <div style="width:480px">Tâches accomplies </div>   |
+| ----- | --------------------------------------------------- |
+| 14:00 | Récupération de la dernière télévision chez Edelwyn |
+| 15:00 | Livraison du rayonnage dans le Grand Studio         |
+
 #### Mardi
+
+| Heure | <div style="width:480px">Tâches accomplies </div>              |
+| ----- | -------------------------------------------------------------- |
+| 09:00 | Montage du rayonnage                                           |
+| 14:30 | Test de tous les télévisions une fois montées sur le rayonnage |
+| 15:00 | Début de rédaction du manel de démarrage                       |
+
+<img src="equipe/jade_hebert/installation1.jpeg" 
+     alt="Premier montage de la maquette 1 " 
+     style="width:100%; height:auto; border-radius:10px;">
 
 #### Mercredi
 
