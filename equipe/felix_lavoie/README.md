@@ -61,6 +61,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 - Validation du projet.
 - validation de la planafication.
+- s'assurer du fonctionnement de la capture de l'oeil
 
 #### Mercredi
 
@@ -73,6 +74,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Lundi
 
 #### Mardi
+
+- assemblage de l'étalage
+- affichage de la video sur les tv par les raspberry pie
+- placer les tv
 
 #### Mercredi
 
