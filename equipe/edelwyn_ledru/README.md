@@ -97,6 +97,12 @@ Intégration dans Touchdesigner :
 
 #### Mercredi
 
+- Connecter TouchDesigner et Reaper via l'osc
+- Réglage de bugs :
+ - L'osc était dans le mauvais channel du à un offset dans pure Data
+ - Changement de frame sans l'effet glitch
+- Ajouter les sons dans reaper
+
 #### Jeudi
 
 #### Vendredi
