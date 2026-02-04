@@ -77,9 +77,16 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 - assemblage de l'étalage
 - affichage de la video sur les tv par les raspberry pie
+- amélioration de la qualiter de la capture
 - placer les tv
 
 #### Mercredi
+
+- placer les lumières
+- placer les speaker
+- installer les rapberry pie pour le partage du feed video dans le tv cathodique
+- commencer a installer les petits écran
+- création de l'interaction de la lumière
 
 #### Jeudi
 
