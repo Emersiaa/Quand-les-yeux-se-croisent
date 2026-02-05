@@ -162,6 +162,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
+| Heure | <div style="width:480px">Tâches accomplies </div>            |
+| ----- | ------------------------------------------------------------ |
+| 10:00 | Ajout de tous les raspberries                                |
+| 11:00 | Optimisation de l'image et fluidité des effets de transition |
+| 14:00 | Continuité du manuel de démarrage                            |
+| 15:00 | Debugage : problèmes d'OSC avec Reaper                       |
+| 15:30 | Debugage : problèmes avec les lumières LED                   |
+| 16:30 | Installation des haut-parleurs                               |
+
 #### Jeudi
 
 #### Vendredi
