@@ -48,8 +48,8 @@ Tâches principales:
 
 Tâches principales:
 
-- Aide à la réalisation de la vidéo <br>
-- Installation et adaptation aux différentes plateformes <br>
+- Organiser une réunion d’alignement d’équipe (suite à l'évaluation de la maquette 1) <br>
+- Installation et adaptation des commentaires des professseurs <br>
 - Application de tests de contrôle de la qualité <br>
 
 ### Semaine 5 — Production intensive & intégration
@@ -114,7 +114,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
-| Heure | <div style="width:480px">Tâches accomplies </div>                           |
+| Heure | <div style="width:550px">Tâches accomplies </div>                           |
 | ----- | --------------------------------------------------------------------------- |
 | 09:00 | Présentation du projet aux ensignants                                       |
 | 14:30 | Réunion d’alignement d’équipe (son et logo)                                 |
@@ -122,7 +122,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
-| Heure | <div style="width:480px">Tâches accomplies </div>                  |
+| Heure | <div style="width:550px">Tâches accomplies </div>                  |
 | ----- | ------------------------------------------------------------------ |
 | 10:00 | Réunion d’alignement d’équipe (quoi faire pour la maquette 1)      |
 | 11:00 | Rencontre avec Guillaume pour l'équipement                         |
@@ -130,7 +130,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 
-| Heure | <div style="width:480px">Tâches accomplies </div> |
+| Heure | <div style="width:550px">Tâches accomplies </div> |
 | ----- | ------------------------------------------------- |
 | 10:30 | Récupération des télévisions chez Guillaume       |
 | 13:00 | Test de l'affichage des télévisions               |
@@ -143,14 +143,14 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
-| Heure | <div style="width:480px">Tâches accomplies </div>   |
+| Heure | <div style="width:550px">Tâches accomplies </div>   |
 | ----- | --------------------------------------------------- |
 | 14:00 | Récupération de la dernière télévision chez Edelwyn |
 | 15:00 | Livraison du rayonnage dans le Grand Studio         |
 
 #### Mardi
 
-| Heure | <div style="width:480px">Tâches accomplies </div>              |
+| Heure | <div style="width:550px">Tâches accomplies </div>              |
 | ----- | -------------------------------------------------------------- |
 | 09:00 | Montage du rayonnage                                           |
 | 14:30 | Test de tous les télévisions une fois montées sur le rayonnage |
@@ -162,7 +162,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
-| Heure | <div style="width:480px">Tâches accomplies </div>            |
+| Heure | <div style="width:550px">Tâches accomplies </div>            |
 | ----- | ------------------------------------------------------------ |
 | 10:00 | Ajout de tous les raspberries                                |
 | 11:00 | Optimisation de l'image et fluidité des effets de transition |
@@ -173,7 +173,16 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 
-#### Vendredi
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 14:30 | Tests de son                                      |
+| 15:30 | Rangement et préparation de l'espace              |
+| 16:00 | Installation de la lumière Spotlight              |
+| 18:00 | Préparation à l'exposition                        |
+
+<img src="equipe/jade_hebert/maquette1_resultat.png" 
+     alt="Maquette 1 " 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 4
 
