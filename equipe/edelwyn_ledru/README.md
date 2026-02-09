@@ -107,6 +107,7 @@ Intégration dans Touchdesigner :
 
 - Tentative de reglage de bug : 
  - Empêchement de mettre l'animation des batons LED sur la capture parce que c'est connecté à la caméra
+ - Optimization de la sauvegarde des yeux
 - Participation au tournage de la bande-annonce
 
 #### Vendredi
