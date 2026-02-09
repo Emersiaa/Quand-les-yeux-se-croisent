@@ -105,11 +105,20 @@ Intégration dans Touchdesigner :
 
 #### Jeudi
 
+- Tentative de reglage de bug : 
+ - Empêchement de mettre l'animation des batons LED sur la capture parce que c'est connecté à la caméra
+- Participation au tournage de la bande-annonce
+
 #### Vendredi
+
+- Réunion du comité Design sur le logo
+- Participation au creation du logo
 
 ### Semaine 4
 
 #### Lundi
+
+- Réunion du comité design : Choix final
 
 #### Mardi
 
