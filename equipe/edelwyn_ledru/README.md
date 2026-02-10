@@ -123,6 +123,9 @@ Intégration dans Touchdesigner :
 
 #### Mardi
 
+- S'assurer de l'enregistrement dans la séquence
+- Régler la pixelisation de l'effet glitch
+
 #### Mercredi
 
 #### Jeudi
