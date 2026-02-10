@@ -90,6 +90,9 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 
+- finition de la monture pour maquette 1
+- presenter la maquette 1
+
 #### Vendredi
 
 ### Semaine 4
