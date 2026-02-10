@@ -78,6 +78,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Continuer le montage de la bande d'annonce
 
 #### Jeudi
+- Pas d'école.
 
 #### Vendredi
 
@@ -92,8 +93,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Mettre à jour mes tâches 
 
 #### Mercredi
+- Finir le montage de notre bande d'annonce, la faire approuver par l'équipe et la mettre sur le drive.
 
 #### Jeudi
+- M'assurer du bon fonctionnement de notre installation et faire l'arrangement florale.
 
 #### Vendredi
 
