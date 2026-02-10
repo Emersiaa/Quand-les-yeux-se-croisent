@@ -66,6 +66,10 @@ Tâches principales:
   - Assembler une installation qui comprend deux haut-parleurs, deux faisceaux lumineux et deux caméras
   - Pouvoir inclure la captation des DEUX caméras dans la séquence vidéo (Edelwyn)
 
+  <img src="equipe/jade_hebert/maquette2_plan.jpeg" 
+     alt="Plan de la maquette 2" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 ### Semaine 6 — Maquette 2
 
 Tâches principales:
@@ -186,9 +190,14 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 ### Semaine 4
 
-#### Lundi
-
 #### Mardi
+
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 09:00 | Mini réunion pour ré-aligner les tâches de chacun |
+| 09:30 | Plan de la maquette 2                             |
+| 10:30 | Continuation du manuel de démarrage               |
+| 15:30 | Entrevue                                          |
 
 #### Mercredi
 
