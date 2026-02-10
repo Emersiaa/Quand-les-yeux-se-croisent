@@ -97,6 +97,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 - M'assurer du bon fonctionnement de notre installation et faire l'arrangement florale.
+- Présenter notre programme et notre maquette 1 pour les portes ouvertes.
 
 #### Vendredi
 
