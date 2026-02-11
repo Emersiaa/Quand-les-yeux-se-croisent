@@ -106,6 +106,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Lundi
 
 #### Mardi
+- Filmer les entrevues.
+- Exporter le contenue filmer et le mettre sur le drive.
 
 #### Mercredi
 
