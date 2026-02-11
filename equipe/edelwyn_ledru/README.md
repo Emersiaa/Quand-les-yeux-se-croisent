@@ -76,7 +76,7 @@ Création du logo Émersia
 
 Intégration dans Touchdesigner :
 
-- Faire le comportement quand on capte l'oeil, ca change les bâtons LED en blanc
+- Faire le comportement lorsqu'on capte l'oeil, ça change les bâtons LED en blanc
 - Regler le format des médias
 - S'assurer que la base fonctionne
 
@@ -127,6 +127,11 @@ Intégration dans Touchdesigner :
 - Régler la pixelisation de l'effet glitch
 
 #### Mercredi
+
+- Remplacement de l'effet glitch par un effet qui se déclenche lors de la detection de l'oeil
+- Diviser le projet en 2 projets Touchdesigner (un pour chaque caméra)
+- Optimization de la detection : Implementation de limites de distances
+- Réglage de bugs : correction des paramètres pour une animation fluide
 
 #### Jeudi
 
