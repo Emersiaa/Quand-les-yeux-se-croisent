@@ -201,6 +201,13 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>        |
+| ----- | -------------------------------------------------------- |
+| 10:00 | Installation de la deuxième caméra                       |
+| 11:00 | Afficher les captations sur des télévisions aléatoires   |
+| 14:00 | Établir une zone de captation maximale                   |
+| 15:30 | Définir l'ambiance visuelle (animation des lumières LED) |
+
 #### Jeudi
 
 #### Vendredi
