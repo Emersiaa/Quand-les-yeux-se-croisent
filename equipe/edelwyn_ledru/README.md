@@ -76,7 +76,7 @@ Création du logo Émersia
 
 Intégration dans Touchdesigner :
 
-- Faire le comportement quand on capte l'oeil, ca change les bâtons LED en blanc
+- Faire le comportement lorsqu'on capte l'oeil, ça change les bâtons LED en blanc
 - Regler le format des médias
 - S'assurer que la base fonctionne
 
@@ -97,17 +97,41 @@ Intégration dans Touchdesigner :
 
 #### Mercredi
 
+- Connecter TouchDesigner et Reaper via l'osc
+- Réglage de bugs :
+ - L'osc était dans le mauvais channel du à un offset dans pure Data
+ - Changement de frame sans l'effet glitch
+- Ajouter les sons dans reaper
+
 #### Jeudi
 
+- Tentative de reglage de bug : 
+ - Empêchement de mettre l'animation des batons LED sur la capture parce que c'est connecté à la caméra
+ - Optimization de la sauvegarde des yeux
+- Participation au tournage de la bande-annonce
+
 #### Vendredi
+
+- Réunion du comité Design sur le logo
+- Participation au creation du logo
 
 ### Semaine 4
 
 #### Lundi
 
+- Réunion du comité design : Choix final
+
 #### Mardi
 
+- S'assurer de l'enregistrement dans la séquence
+- Régler la pixelisation de l'effet glitch
+
 #### Mercredi
+
+- Remplacement de l'effet glitch par un effet qui se déclenche lors de la detection de l'oeil
+- Diviser le projet en 2 projets Touchdesigner (un pour chaque caméra)
+- Optimization de la detection : Implementation de limites de distances
+- Réglage de bugs : correction des paramètres pour une animation fluide
 
 #### Jeudi
 
