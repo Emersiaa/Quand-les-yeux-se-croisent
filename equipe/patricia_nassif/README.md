@@ -110,6 +110,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Exporter le contenue filmer et le mettre sur le drive.
 
 #### Mercredi
+- Faire l'animation des lumières dans Touch.
+- Faire une autre version du logo de notre équipe.
 
 #### Jeudi
 
