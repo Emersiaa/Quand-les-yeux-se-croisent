@@ -63,37 +63,49 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 2
 
 #### Lundi
+Début des recherches pour les objets liés à la direction artistique. Exploration d’idées visuelles et comparaison des prix. Réflexion sur l’ambiance générale du projet.
 
 #### Mardi
+Organisation du matériel et planification de leur utilisation dans l’installation.
 
 #### Mercredi
+Création des premières ambiances sonores dans FL Studio. Tests de textures sonores douces et expérimentations avec des couches atmosphériques.
 
 #### Jeudi
+Début de la création du PowerPoint. Mise en place de la structure, ajout du concept, des intentions artistiques et des premières images de référence.
 
 #### Vendredi
+Finalisation de certaines diapositives du PowerPoint. Ajustements mineurs aux ambiances sonores commencées la veille
 
 ### Semaine 3
 
 #### Lundi
 
 #### Mardi
+Début de la création des sons interactifs de captation. Expérimentations avec des sons courts et réactifs pour créer une interaction immersive.
 
 #### Mercredi
+Création des sons d’environnement (vent, mer, feuilles). Superposition des couches sonores pour créer une ambiance naturelle et immersive.
 
 #### Jeudi
+Montage sonore combinant l’ambiance principale et les effets sonores d’environnement. Travail sur les transitions et l’équilibre sonore.
 
 #### Vendredi
+Réécoute du montage sonore et correction de certains détails pour améliorer la fluidité.
 
 ### Semaine 4
 
 #### Lundi
+Préparation des questions et organisation pour les entrevues.
 
 #### Mardi
+Réalisation des entrevues. Vérification de la qualité audio et vidéo après l’enregistrement.
 
 #### Mercredi
+Montage sonore de la bande d'annonce
 
 #### Jeudi
-
+continuation de la bande d'annonce
 #### Vendredi
 
 ### Semaine 5
