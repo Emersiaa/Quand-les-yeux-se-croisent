@@ -80,6 +80,8 @@ Intégration dans Touchdesigner :
 - Regler le format des médias
 - S'assurer que la base fonctionne
 
+![](capture_decran_touch_1-28.png)
+
 #### Jeudi
 
 - Paufinage de l'effet de flou sur l'oeil capté
@@ -95,7 +97,7 @@ Intégration dans Touchdesigner :
 - Paufinage de l'effet glitch
 - Optimization du fichier .toe
 
-![](capture_decran_touch_02-03.png)
+![](capture_decran_touch_2-03.png)
 
 #### Mercredi
 
