@@ -101,9 +101,18 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+- installer la deuxieme camera
+- reparer les lumière del
+
 #### Mercredi
 
+- installer les petits ordis
+- changer le touch pour fonctioner sur les petits ordis
+
 #### Jeudi
+
+- faire des updates windows
+- optimisation des petits ordis
 
 #### Vendredi
 
