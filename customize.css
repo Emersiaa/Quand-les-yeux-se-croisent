@@ -1,8 +1,8 @@
 /* prettier-ignore */
 :root {
   /* Color */
-  --color-bg  : #efefef;
-  --color-text: #022301;
+  --color-bg  : #000000;
+  --color-text: #efefef;
 
   /* Cover */
   --cover-bg-brightness: 0.95;
