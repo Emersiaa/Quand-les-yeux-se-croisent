@@ -95,6 +95,8 @@ Intégration dans Touchdesigner :
 - Paufinage de l'effet glitch
 - Optimization du fichier .toe
 
+![](capture_decran_touch_02-03.png)
+
 #### Mercredi
 
 - Connecter TouchDesigner et Reaper via l'osc
@@ -133,7 +135,11 @@ Intégration dans Touchdesigner :
 - Optimization de la detection : Implementation de limites de distances
 - Réglage de bugs : correction des paramètres pour une animation fluide
 
+![](capture_decran_touch_02-11.png)
+
 #### Jeudi
+
+Absente (maladie)
 
 #### Vendredi
 
@@ -142,6 +148,8 @@ Intégration dans Touchdesigner :
 #### Lundi
 
 #### Mardi
+
+
 
 #### Mercredi
 
