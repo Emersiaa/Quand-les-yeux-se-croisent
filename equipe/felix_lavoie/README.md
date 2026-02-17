@@ -120,6 +120,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
+- amelioration du touch des petits ordis
+- optimisation des petits ordis
+- création de l'échange de donner entre les petits ordis et le pc central
+
 #### Mardi
 
 #### Mercredi
