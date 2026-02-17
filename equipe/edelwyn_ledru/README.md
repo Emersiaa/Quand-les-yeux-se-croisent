@@ -151,7 +151,12 @@ Absente (maladie)
 
 #### Mardi
 
+<<<<<<< Updated upstream
 
+=======
+- Connection OSC entre les differents ordis 
+- petit réglage sur l'effet des yeux d'animaux
+>>>>>>> Stashed changes
 
 #### Mercredi
 
