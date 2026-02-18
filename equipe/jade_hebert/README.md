@@ -210,22 +210,39 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 
-| Heure | <div style="width:550px">Tâches accomplies </div>               |
-| ----- | --------------------------------------------------------------- |
-| 10:00 | Réorganisation du Projet TouchDesigner                          |
-| 14:00 | fficher les captations sur des télévisions aléatoires (debogue) |
+| Heure | <div style="width:550px">Tâches accomplies </div>                |
+| ----- | ---------------------------------------------------------------- |
+| 10:00 | Réorganisation du Projet TouchDesigner                           |
+| 14:00 | Afficher les captations sur des télévisions aléatoires (debogue) |
 
 #### Vendredi
 
-### Semaine 5
+| Heure | <div style="width:550px">Tâches accomplies </div>                |
+| ----- | ---------------------------------------------------------------- |
+| 13:00 | Afficher les captations sur des télévisions aléatoires (debogue) |
 
-#### Lundi
+### Semaine 5
 
 #### Mardi
 
+<iframe src="https://giphy.com/embed/bPEzqPWRVZKpO"></iframe>
+
 #### Mercredi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>                         |
+| ----- | ------------------------------------------------------------------------- |
+| 10:00 | Réunion des objectifs pour la maquette 2 et ce qui a était fait la veille |
+| 11:00 | Intégration du code de la captation aléatoire au Touch du projet          |
+| 11:30 | Refaite du site web                                                       |
+| 13:30 | Achat de tissu                                                            |
+| 15:00 | Découpage des dimensions du tissu                                         |
+| 16:00 | Dossier de presse                                                         |
+
 #### Jeudi
+
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 10:00 | Dossier de presse                                 |
 
 #### Vendredi
 
