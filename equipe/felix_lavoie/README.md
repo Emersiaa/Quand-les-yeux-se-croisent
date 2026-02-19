@@ -126,6 +126,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+- réinstalation des baton led
+- préparation des petits ordis
+- préparation pour le controle a distance des petits ordis
+
 #### Mercredi
 
 #### Jeudi
