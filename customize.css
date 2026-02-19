@@ -117,6 +117,8 @@ body::after {
   z-index: 100;
   background-color: var(--color-bg) !important;
   isolation: isolate;
+  text-align: center;
+  font-size: large;
 }
 
 /*# sourceMappingURL=core-dark.css.map */

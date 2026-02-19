@@ -26,21 +26,17 @@ Gratuit
 
 ### Description
 
-Quand les Yeux se Croisent est une installation interactive immersive basée sur la captation et la projection du regard du spectateur.
+Quand les Yeux se Croisent est une collection de regards humains et animaux présentée dans une installation immersive de quatre télévisions cathodiques disposées en structure rectangulaire dans un grand studio. En observant les écrans, le visiteur découvre que son propre regard s’ajoute à la collection. Cette interaction modifie également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore. Il peut circuler librement autour de l’installation, intègrant désormais son regard capté à la collection projetée en boucle.
 
-L’œuvre se compose d’un ensemble de quatre télévisions cathodiques disposées en structure rectangulaire dans un grand studio plongé dans une lumière tamisée. Sur les écrans, des regards d’animaux et d’humains défilent en boucle grâce à un effet de morphing accompagné de légères distorsions visuelles (glitch, pixelisation), conservant une esthétique inspirée des écrans rétro. L'œuvre est aussi parsemée de décoration florale, le tout formant une structure à la fois numérique et organique.
-
-Le visiteur peut circuler librement autour de l’installation. Lorsque celui-ci se place sous un des deux éclairages directionnels prévus à cet effet, une caméra capte son regard. Son iris est alors affiché en temps réel sur certains écrans et suit ses déplacements latéraux. Cette interaction modifie également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore.
-
-Après quelques instants, le système revient à la séquence initiale, mais intègre désormais le regard capté à la collection projetée en boucle. Chaque participant laisse ainsi une trace visuelle qui s’ajoute aux regards précédents. Plusieurs visiteurs peuvent interagir successivement, ce qui crée une galerie évolutive composée de regards humains et animaux.
-
-Le projet est surtout cotemplative, mais aborde aussi l’interaction sociale en mettant le spectateur à la fois dans la position de celui qui regarde et de celui qui est regardé. Il transforme ainsi un geste simple, croiser un regard, en expérience interactive collective.
+Le projet est surtout cotemplative, mais aborde aussi l’interaction sociale en mettant le spectateur à la fois dans la position de celui qui regarde et de celui qui est regardé. Le dialogue visuel entre humains et animaux met en lumière le lien profond qui unit tous les êtres vivants, créant un pont sensible entre le visiteur, les autres et les images qui l’entourent.
 
 ### Histoire
 
 ---
 
 Cette installation est née d’une idée originale imaginée par Patricia Nassif, présentée lors de la session précédente dans le cadre d’un projet final. Le concept a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à la proposition. Convaincus par la pertinence et le potentiel de cette idée, les membres ont choisi de la développer collectivement pour en faire l’installation Quand les Yeux se Croisent.
+
+Au début présenté sous la forme d'un parcours, l'idée s'est transformée en une seule structure 360. De plus, ayant une formation en rédaction de prompt et génération d'images artificielles, le projet s'est transformé en création artificielle et création humaine.
 
 ### Fonctionnalités
 
@@ -62,7 +58,7 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 - Utilisation d’une caméra dissimulée pour capter l’œil du spectateur.
 - Affichage immédiat de son iris sur certains écrans.
 
-#### 4. Réaction lumineuse dynamique
+#### 4. Réaction lumineuse immersive
 
 - Modification de l’intensité des barres LED en fonction de la captation.
 - Passage d’un mode passif (pulsation douce) à un mode interactif (réaction directe).
@@ -81,6 +77,9 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 ### Bande-annonce
 
 ### Images
+
+<img src="dossier_presse/photos.png"
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### À propos de l'équipe de création
 
@@ -113,3 +112,120 @@ Il s’occupe du matériel technique et des branchements. Il programme les diff�
 Un énorme merci aux TTP et à nos professeurs Thomas Frederiks et Guillaume Arsenault.
 
 ### Contact
+
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+.student-card {
+  background-color: #2f2f2f;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 0.4fr;
+  grid-template-rows: 1.5fr 1fr 1fr;
+  width: 100%;
+  height: 16vw;
+  padding: 1vw;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.student-card img {
+  grid-column: 1;
+  grid-row: 1 / 4;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.student-card .name {
+  grid-column: 2;
+  grid-row: 1;
+  font-size: 2.5vw;
+  font-weight: 900;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.wrapper-documents {
+  grid-column: 2;
+  grid-row: 2;
+  font-size: 1.8vw;
+  align-self: center;
+  line-height: 1.8;
+}
+
+.wrapper-documents a {
+  padding-left: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.icon {
+  margin-right: 0.5vw;
+}
+
+/* Carte inversée */
+.student-card.inversed {
+  direction: rtl;
+}
+
+.student-card.inversed .name,
+.student-card.inversed .wrapper-documents {
+  direction: ltr; /* le texte reste lisible de gauche à droite */
+}
+</style>
+
+<div class="student-card">
+  <img src="dossier_presse/photo_patricia.jpg">
+  <p class="name">Patricia Nassif</p>
+  <div class="wrapper-documents">
+    <a href="https://www.linkedin.com/in/patricia-nassif" target="_blank"><i class="fas fa-globe icon"></i>Linkedin</a><br>
+    <a href="https://patricia642.github.io/patricia-nassif/" target="_blank"><i class="fas fa-globe icon"></i>Portfolio</a>
+  </div>
+</div>
+
+<br>
+
+<div class="student-card inversed">
+  <img src="dossier_presse/photo_jade.jpg">
+  <p class="name">Jade Hébert</p>
+  <div class="wrapper-documents">
+    <a href="https://www.linkedin.com/in/jade-hebert-0958562b9/" target="_blank"><i class="fas fa-globe icon"></i>Linkedin</a><br>
+    <a href="https://jadehebert.com/" target="_blank"><i class="fas fa-globe icon"></i>Portfolio</a>
+  </div>
+</div>
+
+<br>
+
+<div class="student-card">
+  <img src="dossier_presse/photo_manel.jpg">
+  <p class="name">Manel Yaya</p>
+  <div class="wrapper-documents">
+    <a href="https://www.linkedin.com/in/manel-yaya-265900293/" target="_blank"><i class="fas fa-globe icon"></i>Linkedin</a><br>
+    <a href="https://manelyaya.github.io/portfolio_manel_yaya/" target="_blank"><i class="fas fa-globe icon"></i>Portfolio</a>
+  </div>
+</div>
+
+<br>
+
+<div class="student-card inversed">
+  <img src="dossier_presse/photo_edelwyn.jpg">
+  <p class="name">Edelwyn Ledru</p>
+  <div class="wrapper-documents">
+    <a href="https://www.linkedin.com/in/edelwyn-ledru-218b652b5/" target="_blank"><i class="fas fa-globe icon"></i>Linkedin</a><br>
+    <a href="https://edelwyn.github.io/portfolio_edelwyn-ledru/" target="_blank"><i class="fas fa-globe icon"></i>Portfolio</a>
+  </div>
+</div>
+
+<br>
+
+<div class="student-card">
+  <img src="dossier_presse/photo_felix.jpg">
+  <p class="name">Félix Lavoie</p>
+  <div class="wrapper-documents">
+    <a href="https://www.linkedin.com/in/f%C3%A9lix-lavoie-847a72324/" target="_blank"><i class="fas fa-globe icon"></i>Linkedin</a><br>
+  </div>
+</div>
