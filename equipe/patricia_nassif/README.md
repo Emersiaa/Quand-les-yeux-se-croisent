@@ -114,6 +114,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Faire une autre version du logo de notre équipe.
 
 #### Jeudi
+-
 
 #### Vendredi
 
@@ -122,8 +123,12 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Lundi
 
 #### Mardi
+- Montrer notre bande d'annonce a Guillaume et commencer à faire quelques modifications.
+- Préparer le vernissage avec mon comité.
+- Faire une rencontre d'équipe pour nos priorités du moment.
 
 #### Mercredi
+- Commencer notre vidéo finale.
 
 #### Jeudi
 
