@@ -158,7 +158,19 @@ Absente (maladie)
 
 #### Mercredi
 
+- Participation au flashing des cartes microSD
+- Ajout de l'animation des lumières LED dans le projet touch principal
+- Changement de couleur sur les lumières LED quand on capte
+
+![](capture_decran_touch_02-18.png)
+
 #### Jeudi
+
+- Animation des lumières LED en fonction de l'ambiance de base
+- Débuggage : correction du bug dans la boucle des yeux enregistrés qui incluait le path
+- Ajout d'une animation de lumière LED en blanc pour mieux éclairer
+
+![](photo_installation_02-19.jpg)
 
 #### Vendredi
 
