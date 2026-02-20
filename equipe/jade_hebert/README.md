@@ -32,10 +32,10 @@ Tâches principales:
 
 - Assemblage de la maquette 1 <br>
   - Avoir en notre possession toutes les télévisions
-  - Avoir un montage sonore combinant l'ambiance + effets sonores d'environnement (Manel)
+  - Avoir un montage sonore combinant l'ambiance + effets sonores d'environnement
   - Faire une animation des lumières LED
   - Assembler une installation qui comprend deux haut-parleurs, un faisceau lumineux et la caméra
-  - Faire fonctionner les écrans (Félix)
+  - Faire fonctionner les écrans
 
 <img src="equipe/jade_hebert/maquette1_plan.jpeg" 
      alt="Plan de la maquette 1" 
@@ -60,11 +60,11 @@ Tâches principales:
 - Assurer le bon déroulement du tournage et de la documentation <br>
 - Rédiger le dossier de presse <br>
 - Assemblage de la maquette 2 <br>
-  - Pouvoir inclure les yeu des interacteurs dans la séquence vidéo (Edelwyn)
-  - Avoir le montage sonore combinant l'ambiance + effets sonores d'environnement et d'animaux (Manel)
-  - Faire une animation des lumières DNX (2)
+  - Pouvoir inclure les yeu des interacteurs dans la séquence vidéo
+  - Avoir le montage sonore combinant l'ambiance + effets sonores d'environnement et d'animaux
   - Assembler une installation qui comprend deux haut-parleurs, deux faisceaux lumineux et deux caméras
-  - Pouvoir inclure la captation des DEUX caméras dans la séquence vidéo (Edelwyn)
+  - Pouvoir inclure la captation des DEUX caméras dans la séquence vidéo
+  - Faire une animation de lumière LED
 
   <img src="equipe/jade_hebert/maquette2_plan.jpeg" 
      alt="Plan de la maquette 2" 
@@ -78,15 +78,16 @@ Tâches principales:
 - Organiser des tests utilisateurs (Présentation publique pendant le trou à l'horaire) <br>
 - Débuter l'installation (maquette finale)<br>
 - Identifier les bugs <br>
+- Déplacement de la structure <br>
 
 ### Semaine 6.5 - Tests & débogage
 
 Tâches principales:
 
 - Finir l'installation (maquette finale) <br>
-  - Avoir en notre possession toutes les écrans (Félix)
+  - Avoir en notre possession toutes les écrans
   - Faire une animation des lumières DNX (4)
-  - Cacher le câblage à l'aide de boîtes, de rideaux et d'arragement floraux (Manel, Patrica, Edelwyn)
+  - Cacher le câblage à l'aide de boîtes, de rideaux et d'arragement floraux
 - Vérifier la stabilité générale <br>
 - Prioriser les corrections <br>
 - Coordonner les correctifs <br>
@@ -215,6 +216,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 10:00 | Réorganisation du Projet TouchDesigner                           |
 | 14:00 | Afficher les captations sur des télévisions aléatoires (debogue) |
 
+<img src="equipe/jade_hebert/av2.jpeg" 
+     alt="Réorganisation des ordinateurs et du branchement" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Vendredi
 
 | Heure | <div style="width:550px">Tâches accomplies </div>                |
@@ -238,11 +243,20 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 15:00 | Découpage des dimensions du tissu                                         |
 | 16:00 | Dossier de presse                                                         |
 
+<img src="equipe/jade_hebert/av3.jpeg" 
+     alt="Découpe du tissu" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Jeudi
 
-| Heure | <div style="width:550px">Tâches accomplies </div> |
-| ----- | ------------------------------------------------- |
-| 10:00 | Dossier de presse                                 |
+| Heure | <div style="width:550px">Tâches accomplies </div>           |
+| ----- | ----------------------------------------------------------- |
+| 10:00 | Dossier de presse                                           |
+| 13:00 | Manuel de démarrage                                         |
+| 14:30 | Installation du spotlight                                   |
+| 15:30 | Renontre comité Communications                              |
+| 16:00 | Test utilisateurs et debogues                               |
+| 17:00 | Mise à jour de la maquette 2 selon les problèmes rencontrés |
 
 #### Vendredi
 
