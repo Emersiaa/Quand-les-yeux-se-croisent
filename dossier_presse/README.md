@@ -32,9 +32,7 @@ Gratuit
 
 ---
 
-Cette installation est née d’une idée originale imaginée par Patricia Nassif, présentée lors de la session précédente dans le cadre d’un projet final. Le concept a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à la proposition. Convaincus par la pertinence et le potentiel de cette idée, les membres ont choisi de la développer collectivement pour en faire l’installation **Quand les yeux se croisent**.
-
-Au début présenté sous la forme d'un parcours, l'idée s'est transformée en une seule structure 360. De plus, ayant une formation en rédaction de prompt et génération d'images artificielles, le projet s'est transformé en création artificielle et création humaine.
+Cette installation est née d’une idée originale imaginée par Patricia Nassif, portée par un désir profond de contemplation et de poésie, ainsi que par son amour pour les fleurs et les animaux. Présentée lors de la session précédente dans le cadre d’un projet final, la proposition a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à sa sensibilité et à son potentiel immersif. Convaincus par la pertinence du concept, les membres ont choisi de le développer collectivement pour donner naissance à l’installation **Quand les yeux se croisent**. Initialement pensé sous la forme d’un parcours, le projet a évolué vers une structure centrale unique autour de laquelle le visiteur circule librement, renforçant l’idée d’un espace contemplatif et enveloppant. Grâce à une formation en rédaction de prompts et en génération d’images artificielles, le projet a également pris une dimension hybride, mêlant création humaine et création artificielle, dans un dialogue entre technologie, regard et sensibilité.
 
 ### Fonctionnalités
 
