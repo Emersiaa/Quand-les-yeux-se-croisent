@@ -16,7 +16,7 @@ Installation contemplative et interactive
 
 ### Site Web du projet :
 
-[Quand les yeux se croisent](https://z-vision.github.io/Quand-les-yeux-se-croisent/)
+[Quand les yeux se croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
 
 ### Prix :
 
