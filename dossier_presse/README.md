@@ -26,7 +26,7 @@ Gratuit
 
 ### Description
 
-Quand les Yeux se Croisent est une collection de regards humains et animaux présentée dans une installation immersive de quatre télévisions cathodiques disposées en structure rectangulaire dans un grand studio. En observant les écrans, le visiteur découvre que son propre regard s’ajoute à la collection. Cette interaction modifie également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore. Il peut circuler librement autour de l’installation, intègrant désormais son regard capté à la collection projetée en boucle.
+**Quand les Yeux se Croisent** est une collection de regards humains et animaux présentée dans une installation immersive de quatre télévisions cathodiques disposées en structure rectangulaire dans un grand studio. En observant les écrans, le visiteur découvre que son propre regard s’ajoute à la collection. Cette interaction modifie également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore. Il peut circuler librement autour de l’installation, intègrant désormais son regard capté à la collection projetée en boucle.
 
 Le projet est surtout cotemplative, mais aborde aussi l’interaction sociale en mettant le spectateur à la fois dans la position de celui qui regarde et de celui qui est regardé. Le dialogue visuel entre humains et animaux met en lumière le lien profond qui unit tous les êtres vivants, créant un pont sensible entre le visiteur, les autres et les images qui l’entourent.
 
@@ -34,7 +34,7 @@ Le projet est surtout cotemplative, mais aborde aussi l’interaction sociale en
 
 ---
 
-Cette installation est née d’une idée originale imaginée par Patricia Nassif, présentée lors de la session précédente dans le cadre d’un projet final. Le concept a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à la proposition. Convaincus par la pertinence et le potentiel de cette idée, les membres ont choisi de la développer collectivement pour en faire l’installation Quand les Yeux se Croisent.
+Cette installation est née d’une idée originale imaginée par Patricia Nassif, présentée lors de la session précédente dans le cadre d’un projet final. Le concept a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à la proposition. Convaincus par la pertinence et le potentiel de cette idée, les membres ont choisi de la développer collectivement pour en faire l’installation **Quand les Yeux se Croisent**.
 
 Au début présenté sous la forme d'un parcours, l'idée s'est transformée en une seule structure 360. De plus, ayant une formation en rédaction de prompt et génération d'images artificielles, le projet s'est transformé en création artificielle et création humaine.
 
