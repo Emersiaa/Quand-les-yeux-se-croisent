@@ -26,15 +26,13 @@ Gratuit
 
 ### Description
 
-**Quand les Yeux se Croisent** est une collection de regards humains et animaux présentée dans une installation immersive de quatre télévisions cathodiques disposées en structure rectangulaire dans un grand studio. En observant les écrans, le visiteur découvre que son propre regard s’ajoute à la collection. Cette interaction modifie également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore. Il peut circuler librement autour de l’installation, intègrant désormais son regard capté à la collection projetée en boucle.
-
-Le projet est surtout cotemplative, mais aborde aussi l’interaction sociale en mettant le spectateur à la fois dans la position de celui qui regarde et de celui qui est regardé. Le dialogue visuel entre humains et animaux met en lumière le lien profond qui unit tous les êtres vivants, créant un pont sensible entre le visiteur, les autres et les images qui l’entourent.
+**Quand les yeux se croisent** est une installation immersive composée d’une collection de regards humains et animaux diffusés sur quatre télévisions cathodiques rétro disposées en structure rectangulaire au centre d’un grand studio. Le visiteur se déplace librement autour de l’installation, découvrant progressivement ces écrans d’époque qui forment une mosaïque de regards projetés en boucle. Deux caméras de détection captent sa présence et enregistrent son propre regard, l’intégrant subtilement à l’œuvre et l’ajoutant à cette collection vivante. Cette interaction influence également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore, rendant l’expérience évolutive et sensible à chaque présence. En circulant autour des télévisions, le visiteur comprend qu’il ne fait plus seulement face aux images, mais qu’il en fait partie, créant un dialogue visuel entre humains et animaux qui révèle le lien profond et universel unissant tous les êtres vivants. De petits écrans diffusent également des images de fleurs qui transitionnent délicatement avec les regards enregistrés; les fleurs représentent la sensibilité au cœur du projet et renforcent notre esthétique de rêve éveillé vintage, apportant douceur et poésie à cette expérience contemplative suspendue entre mémoire et imaginaire.
 
 ### Histoire
 
 ---
 
-Cette installation est née d’une idée originale imaginée par Patricia Nassif, présentée lors de la session précédente dans le cadre d’un projet final. Le concept a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à la proposition. Convaincus par la pertinence et le potentiel de cette idée, les membres ont choisi de la développer collectivement pour en faire l’installation **Quand les Yeux se Croisent**.
+Cette installation est née d’une idée originale imaginée par Patricia Nassif, présentée lors de la session précédente dans le cadre d’un projet final. Le concept a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à la proposition. Convaincus par la pertinence et le potentiel de cette idée, les membres ont choisi de la développer collectivement pour en faire l’installation **Quand les yeux se croisent**.
 
 Au début présenté sous la forme d'un parcours, l'idée s'est transformée en une seule structure 360. De plus, ayant une formation en rédaction de prompt et génération d'images artificielles, le projet s'est transformé en création artificielle et création humaine.
 
