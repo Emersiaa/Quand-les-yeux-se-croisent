@@ -24,7 +24,7 @@
 
 ## L'expérience
 
-L’expérience de **Quand les Yeux se Croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
+L’expérience de **Quand les yeux se croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
 
 Ce n’est que lorsqu’il entre dans une zone précise de chaque bord de l'installation, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté par une caméra dissimulée. Les écrans réagissent en faisant apparaître l'œil du spectateur, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, et l'ambiance sonore change également.
 
@@ -56,7 +56,7 @@ Après quelques instants, la séquence initiale des yeux humains et animaux repr
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-L’installation de **Quand les Yeux se Croisent** prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, où les télévisions rétro disposées comme des balises visuelles sont décorées de fleurs et où un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
+L’installation de **Quand les yeux se croisent** prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, où les télévisions rétro disposées comme des balises visuelles sont décorées de fleurs et où un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
 
 L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur.
 
@@ -68,7 +68,7 @@ L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : de
 
 <!--  sur le temps et la progression -->
 
-La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour de l'installation et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans.
+La progression de **Quand les yeux se croisent** dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour de l'installation et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans.
 
 Lorsqu’il choisit de se placer sous un des deux spots lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
 
@@ -85,7 +85,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-Dans **Quand les Yeux se Croisent**, le collectif se manifeste dans le contenu visuel. Les regards d’animaux et d’humains diffusés sur les écrans rappellent les liens instinctifs et sociaux qui unissent les êtres vivants. Une fois que l'interacteur a vécu l'expérience, son œil est parmis la galerie des yeux humains. Plusieurs personnes peuvent circuler simultanément dans le grand studio, suivre le chemin et interagir avec les différentes télévisions un à la fois. Leurs regards se croisent et s'additionent à ceux projetés sur les écrans, créant l'aspect collectif. Ainsi, le projet ne met pas seulement en scène des "yeux collectifs", il devient lui-même un espace collectif, où les regards des visiteurs participent ensemble à une expérience commune, construite à partir de leurs présences et de leurs interactions partagées.
+Dans **Quand les yeux se croisent**, le collectif se manifeste dans le contenu visuel. Les regards d’animaux et d’humains diffusés sur les écrans rappellent les liens instinctifs et sociaux qui unissent les êtres vivants. Une fois que l'interacteur a vécu l'expérience, son œil est parmis la galerie des yeux humains. Plusieurs personnes peuvent circuler simultanément dans le grand studio, suivre le chemin et interagir avec les différentes télévisions un à la fois. Leurs regards se croisent et s'additionent à ceux projetés sur les écrans, créant l'aspect collectif. Ainsi, le projet ne met pas seulement en scène des "yeux collectifs", il devient lui-même un espace collectif, où les regards des visiteurs participent ensemble à une expérience commune, construite à partir de leurs présences et de leurs interactions partagées.
 
 <!--
 comment votre idée de projet correspond au thème du SOCIAL
@@ -98,7 +98,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 ### L’aspect social
 
-Le projet **Quand les Yeux se Croisent** aborde le social à travers la relation entre l’individu et le regard de l’autre. En plaçant le spectateur face à des regards humains et animaux, puis à son propre regard en temps réel, l’installation met en lumière les mécanismes d’observation, d’identification et de conscience de soi qui structurent la vie en société. Le regard devient ici un symbole des liens invisibles qui unissent les individus, des rapports de réciprocité, d’attention et parfois de jugement présents dans toute interaction sociale. De plus, le fait que plusieurs visiteurs puissent partager l’espace, se croiser et s’observer mutuellement amplifie cette dimension : chacun prend conscience de sa présence parmi les autres, tout en participant à une expérience commune. Le dispositif évoque ainsi la cohabitation, l’interdépendance et la perception mutuelle qui fondent toute organisation sociale, en transposant ces dynamiques dans une expérience artistique et introspective.
+Le projet **Quand les yeux se croisent** aborde le social à travers la relation entre l’individu et le regard de l’autre. En plaçant le spectateur face à des regards humains et animaux, puis à son propre regard en temps réel, l’installation met en lumière les mécanismes d’observation, d’identification et de conscience de soi qui structurent la vie en société. Le regard devient ici un symbole des liens invisibles qui unissent les individus, des rapports de réciprocité, d’attention et parfois de jugement présents dans toute interaction sociale. De plus, le fait que plusieurs visiteurs puissent partager l’espace, se croiser et s’observer mutuellement amplifie cette dimension : chacun prend conscience de sa présence parmi les autres, tout en participant à une expérience commune. Le dispositif évoque ainsi la cohabitation, l’interdépendance et la perception mutuelle qui fondent toute organisation sociale, en transposant ces dynamiques dans une expérience artistique et introspective.
 
 ## Inspirations
 
