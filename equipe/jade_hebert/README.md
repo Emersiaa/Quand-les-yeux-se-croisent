@@ -258,11 +258,17 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 16:00 | Test utilisateurs et debogues                               |
 | 17:00 | Mise à jour de la maquette 2 selon les problèmes rencontrés |
 
-#### Vendredi
-
 ### Semaine 6
 
 #### Lundi
+
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 10:00 | Tests                                             |
+|       | **PROBLÈMES TECHNIQUES AU CÉGEP**                 |
+| 12:00 | Réparation de liens brisés dans notre site        |
+| 12:30 | Ajout de photos pour le dossier de presse         |
+| 13:30 | Montage d'une séquence vidéo de la maquette 1     |
 
 #### Mardi
 
