@@ -44,7 +44,7 @@ L’interacteur entre dans l’espace et est libre de circuler autour des télé
 
 Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque.
 
-![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
+[![Inspirations d'effets visuels](inspi_effet_visuel.png)](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2366906_cmontmorency_qc_ca/IQCDhmMmDv5HSpxEEre7HbR7AWAR6kTUi9sidAu_5q-chiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=f74yqf)
 
 Lorsqu’il s’arrête sous les lumières jaunes, d'un bord ou l'autre de la structure, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme en son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité lumineuse des barres LED autour de l'installation. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
@@ -220,7 +220,6 @@ Un univers sonore apaisant et contemplatif, inspiré de la nature, afin de plong
 . Univers sonore contemplatif, Irréel, comme dans un rêve, soutenant les images projetées à l’écran
 
 . Des sons de captation pour soutenir l’interaction
-
 
 ## Intention
 
