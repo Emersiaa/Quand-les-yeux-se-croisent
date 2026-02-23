@@ -2,9 +2,7 @@
 
 <!-- Bannderole / Bande-annonce -->
 
-![](image_accueil.png)
-
-https://youtu.be/BSxoabssdpc
+[![](dossier_presse/bande_annonce.jpeg)](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2366906_cmontmorency_qc_ca/IQD5HCZU1nxxQLIf747nUUgEAQANTcCYXdGAFwzzx5hTqjM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aZkbeW)
 
 ## Description
 
