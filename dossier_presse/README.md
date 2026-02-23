@@ -72,7 +72,7 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 
 ### Bande-annonce
 
-[![Lien vers la bande-annonce](bande_annonce.jpeg)](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2366906_cmontmorency_qc_ca/IQD5HCZU1nxxQLIf747nUUgEAQANTcCYXdGAFwzzx5hTqjM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aZkbeW)
+[![Lien vers la bande-annonce](bande_annonce.jpeg)](https://www.youtube.com/watch?v=kSw9bmIA6bc)
 
 ### Images
 
