@@ -26,13 +26,13 @@ Gratuit
 
 ### Description
 
-**Quand les yeux se croisent** est une installation immersive composée d’une collection de regards humains et animaux diffusés sur quatre télévisions cathodiques rétro disposées en structure rectangulaire au centre d’un grand studio. Le visiteur se déplace librement autour de l’installation, découvrant progressivement ces écrans d’époque qui forment une mosaïque de regards projetés en boucle. Deux caméras de détection captent sa présence et enregistrent son propre regard, l’intégrant subtilement à l’œuvre et l’ajoutant à cette collection vivante. Cette interaction influence également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore, rendant l’expérience évolutive et sensible à chaque présence. En circulant autour des télévisions, le visiteur comprend qu’il ne fait plus seulement face aux images, mais qu’il en fait partie, créant un dialogue visuel entre humains et animaux qui révèle le lien profond et universel unissant tous les êtres vivants. De petits écrans diffusent également des images de fleurs qui transitionnent délicatement avec les regards enregistrés; les fleurs représentent la sensibilité au cœur du projet et renforcent notre esthétique de rêve éveillé vintage, apportant douceur et poésie à cette expérience contemplative suspendue entre mémoire et imaginaire.
+**Quand les yeux se croisent** est une installation immersive composée d’une collection de regards humains et animaux diffusés sur quatre télévisions cathodiques rétro disposées en structure rectangulaire au centre d’un grand studio. Le visiteur peut se déplacer librement autour de l’installation, découvrant progressivement ces écrans vintages qui forment une mosaïque de regards projetés en boucle. Deux caméras captent sa présence et enregistrent son propre regard, l’intégrant subtilement à l’œuvre et l’ajoutant à cette collection vivante. Cette interaction influence également l’intensité des barres LED entourant la structure ainsi que l’ambiance sonore, rendant l’expérience évolutive et sensible à chaque présence. En circulant autour des télévisions, le visiteur comprend qu’il ne fait pas seulement face aux images, mais qu’il en fait partie, créant un dialogue visuel entre humains et animaux qui révèle le lien profond et universel unissant tous les êtres vivants ; les fleurs représentent la sensibilité au cœur du projet et renforcent notre esthétique de rêve éveillé, apportant douceur et poésie à cette expérience contemplative suspendue entre mémoire et imaginaire.
 
 ### Histoire
 
 ---
 
-Cette installation est née d’une idée originale imaginée par Patricia Nassif, portée par un désir profond de contemplation et de poésie, ainsi que par son amour pour les fleurs et les animaux. Présentée lors de la session précédente dans le cadre d’un projet final, la proposition a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à sa sensibilité et à son potentiel immersif. Convaincus par la pertinence du concept, les membres ont choisi de le développer collectivement pour donner naissance à l’installation **Quand les yeux se croisent**. Initialement pensé sous la forme d’un parcours, le projet a évolué vers une structure centrale unique autour de laquelle le visiteur circule librement, renforçant l’idée d’un espace contemplatif et enveloppant. Grâce à une formation en rédaction de prompts et en génération d’images artificielles, le projet a également pris une dimension hybride, mêlant création humaine et création artificielle, dans un dialogue entre technologie, regard et sensibilité.
+Cette installation est née d’une idée originale imaginée par Patricia Nassif, portée par son amour pour les fleurs et les animaux. Présentée lors de la session précédente dans le cadre d’un projet final, la proposition a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à sa sensibilité et à son potentiel immersif. Convaincus par la pertinence du concept, les membres ont choisi de le développer collectivement pour donner naissance à l’installation **Quand les yeux se croisent**. Initialement pensé sous la forme d’un parcours, le projet a évolué vers une structure centrale autour de laquelle le visiteur circule librement. Grâce à une formation en rédaction de prompts et en génération d’images artificielles, le projet a également pris une autre dimension, mêlant création humaine et création artificielle, dans un dialogue entre technologie, regard et sensibilité.
 
 ### Fonctionnalités
 
@@ -72,10 +72,23 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 
 ### Bande-annonce
 
+[![Lien vers la bande-annonce](bande_annonce.jpeg)](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2366906_cmontmorency_qc_ca/IQD5HCZU1nxxQLIf747nUUgEAQANTcCYXdGAFwzzx5hTqjM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aZkbeW)
+
 ### Images
 
-<img src="dossier_presse/photos.png"
-     style="width:100%; height:auto; border-radius:10px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+
+  <img src="dossier_presse/img_03.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_04.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 8px">
+  <img src="dossier_presse/img_01.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_02.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_05.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+
+</div>
 
 ### À propos de l'équipe de création
 
