@@ -153,6 +153,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Jeudi
 - Faire notre banque de fleurs et les mettres sur notre drive.
 - Mettre à jour mon github.
+- Chercher un financement pour acheter plus de fleurs pour notre projet.
 
 #### Vendredi
 
