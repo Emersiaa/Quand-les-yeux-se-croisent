@@ -312,6 +312,11 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | Heure | <div style="width:550px">Tâches accomplies </div> |
 | ----- | ------------------------------------------------- |
 | 10:00 | Plan de l'installation finale                     |
+| 11:00 | Recherche d'effet de transition                   |
+| 12:00 | Test d'un effet                                   |
+| 14:00 | Deuxième test de l'effet                          |
+| 15:30 | Recherche d'application pour animer nos animaux   |
+| 16:30 | Archivage                                         |
 
 #### Vendredi
 
