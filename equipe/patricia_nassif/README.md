@@ -67,39 +67,42 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 2
 
 #### Lundi
- 
+
 #### Mardi
- - Faire le budget de départ
- - Commencer le PowerPoint pour notre cohérence visuelle
- - Commencer le montage de la bande d'annonce
- - Filmer
+- Élaborer le budget de départ.
+- Commencer le PowerPoint afin d’assurer la cohérence visuelle du projet.
+- Débuter le montage de la bande-annonce.
+- Filmer certaines séquences.
 
 #### Mercredi
-- Continuer le montage de la bande d'annonce
+- Poursuivre le montage de la bande-annonce.
 
 #### Jeudi
-- Pas d'école.
+- Pas d’école.
 
 #### Vendredi
+
 
 ### Semaine 3
 
 #### Lundi
 
 #### Mardi
-- Presque terminer le montage de notre bande d'annonce
-- Monter notre installation avec Jade
-- Arranger légèrement les couleurs de notre site
-- Mettre à jour mes tâches 
+- Finaliser presque entièrement le montage de la bande-annonce.
+- Monter l’installation avec Jade.
+- Ajuster légèrement les couleurs du site web.
+- Mettre à jour mes tâches.
 
 #### Mercredi
-- Finir le montage de notre bande d'annonce, la faire approuver par l'équipe et la mettre sur le drive.
+- Terminer le montage de la bande-annonce.
+- La faire approuver par l’équipe et la déposer sur le Drive.
 
 #### Jeudi
-- M'assurer du bon fonctionnement de notre installation et faire l'arrangement florale.
-- Présenter notre programme et notre maquette 1 pour les portes ouvertes.
+- Vérifier le bon fonctionnement de l’installation et réaliser l’arrangement floral.
+- Présenter notre programme et la maquette 1 lors des portes ouvertes.
 
 #### Vendredi
+
 
 ### Semaine 4
 
@@ -107,43 +110,58 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 - Filmer les entrevues.
-- Exporter le contenue filmer et le mettre sur le drive.
+- Exporter le contenu filmé et le déposer sur le Drive.
 
 #### Mercredi
-- Faire l'animation des lumières dans Touch.
-- Faire une autre version du logo de notre équipe.
+- Créer l’animation des lumières dans TouchDesigner.
+- Concevoir une nouvelle version du logo de l’équipe.
 
 #### Jeudi
--
+- Commencer la mise en place de la maquette 2.
+- Faire approuver le nouveau logo et le mettre en ligne.
+- Modifier les couleurs du site à la demande de Jade.
 
 #### Vendredi
+
 
 ### Semaine 5
 
 #### Lundi
 
 #### Mardi
-- Montrer notre bande d'annonce a Guillaume et commencer à faire quelques modifications.
+- Présenter la bande-annonce à Guillaume et commencer les modifications.
 - Préparer le vernissage avec mon comité.
-- Faire une rencontre d'équipe pour nos priorités du moment.
+- Tenir une rencontre d’équipe pour établir les priorités.
 
 #### Mercredi
-- Commencer notre vidéo finale.
+- Commencer la vidéo finale.
 
 #### Jeudi
+- Décorer l’installation et prendre des photos pour la bande-annonce.
+- Refaire entièrement la fin de la bande-annonce.
+- Mettre à jour mon GitHub.
 
 #### Vendredi
+
 
 ### Semaine 6
 
 #### Lundi
 
 #### Mardi
+- Assurer le bon fonctionnement de la maquette 2 et la présenter.
+- Prendre des décisions en équipe à la suite des commentaires des professeurs et établir un plan d’action.
 
 #### Mercredi
+- Déplacer l’installation dans le studio.
 
 #### Jeudi
-
+- Créer une banque d’images de fleurs et la déposer sur le Drive.
+- Mettre à jour mon GitHub.
+- Rechercher du financement afin d’acheter davantage de fleurs pour le projet.
+- Faire un effet de particules et tracking avec Jade.
+- Arranger une des animations de lumière.
+- Décider avec jade la diffusion des fleurs sur les petits écrans.
 #### Vendredi
 
 ### Semaine 6.5

@@ -92,6 +92,10 @@ Tâches principales:
 - Prioriser les corrections <br>
 - Coordonner les correctifs <br>
 
+<img src="equipe/jade_hebert/maquettefinale_plan.png" 
+     alt="Plan de la maquette finale" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 ### Semaine 7 - Finition & préparation de la présentation
 
 Tâches principales:
@@ -258,6 +262,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 16:00 | Test utilisateurs et debogues                               |
 | 17:00 | Mise à jour de la maquette 2 selon les problèmes rencontrés |
 
+<img src="equipe/jade_hebert/av4.jpeg" 
+     alt="Installation du spotlight" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 ### Semaine 6
 
 #### Lundi
@@ -272,9 +280,38 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>   |
+| ----- | --------------------------------------------------- |
+| 07:30 | Tests                                               |
+| 08:30 | Mise à jour de l'environnement sonore               |
+| 09:00 | Problèmes liés aux barres LED                       |
+| 10:00 | Problèmes liés à l'enregistrement des visiteurs     |
+| 11:30 | Présentation de la Maquette 2                       |
+| 16:00 | Évaluation avec Thomas                              |
+| 16:15 | Rencontre avec l'équipe pour les nouveaux objectifs |
+
+<img src="equipe/jade_hebert/maquette2_resultat.jpeg" 
+     alt="Maquette 2" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
 
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 10:00 | Débranchement général de l'installation           |
+| 11:00 | Déplacement de l'installation                     |
+| 14:00 | Placement des fils de manière stratégique         |
+| 15:00 | Installation des haut-parleurs                    |
+
+<img src="equipe/jade_hebert/av5.jpeg" 
+     alt="Montage de l'installation à son nouvel emplacement" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Jeudi
+
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 10:00 | Plan de l'installation finale                     |
 
 #### Vendredi
 
