@@ -132,7 +132,13 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
+- flasher les carte micro sd
+- faire en sorte que la communication entre les lumière fonctionnen
+
 #### Jeudi
+
+- installer les lumières au plafond
+- regler des probleme
 
 #### Vendredi
 
@@ -142,7 +148,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+- test pre maque 2
+- presentation maquete 2
+
 #### Mercredi
+
+- démonter tout
+- remonter tou
+- changer les speaker pour 4 petits speaker
+- séparer l'ordi principale de l'installation
 
 #### Jeudi
 
