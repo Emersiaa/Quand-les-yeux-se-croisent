@@ -160,6 +160,9 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 
+- faire marcher les baton led séparément
+- réinstaller les spotlight
+
 #### Vendredi
 
 ### Semaine 6.5
