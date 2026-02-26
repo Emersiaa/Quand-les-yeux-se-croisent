@@ -159,7 +159,9 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Créer une banque d’images de fleurs et la déposer sur le Drive.
 - Mettre à jour mon GitHub.
 - Rechercher du financement afin d’acheter davantage de fleurs pour le projet.
-
+- Faire un effet de particules et tracking avec Jade.
+- Arranger une des animations de lumière.
+- Décider avec jade la diffusion des fleurs sur les petits écrans.
 #### Vendredi
 
 ### Semaine 6.5
