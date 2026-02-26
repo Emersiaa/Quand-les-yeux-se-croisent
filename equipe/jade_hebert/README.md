@@ -92,6 +92,10 @@ Tâches principales:
 - Prioriser les corrections <br>
 - Coordonner les correctifs <br>
 
+<img src="equipe/jade_hebert/maquettefinale_plan.png" 
+     alt="Plan de la maquette finale" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 ### Semaine 7 - Finition & préparation de la présentation
 
 Tâches principales:
@@ -304,6 +308,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
      style="width:100%; height:auto; border-radius:10px;">
 
 #### Jeudi
+
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 10:00 | Plan de l'installation finale                     |
 
 #### Vendredi
 
