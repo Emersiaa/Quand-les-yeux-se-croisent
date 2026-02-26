@@ -114,7 +114,9 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Faire une autre version du logo de notre équipe.
 
 #### Jeudi
--
+- Commencer à mettre en place la maquette 2.
+- Faire approuver le nouveau logo de notre équipe et le mettre en ligne.
+- Changer les couleurs de notre site à la demande de Jade.
 
 #### Vendredi
 
@@ -131,6 +133,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Commencer notre vidéo finale.
 
 #### Jeudi
+- Décorer notre installation et prendre des photos pour notre bande d'annonce.
+- Refaire toute la fin de notre bande d'annonce.
 
 #### Vendredi
 
@@ -139,8 +143,11 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Lundi
 
 #### Mardi
+- Assurer le bon fontionnement de notre maquette 2.
+- Prendre des décision en équipe sur les commentires des profs et faire un plan de match.
 
 #### Mercredi
+- Bouger notre installation de place dans le studio.
 
 #### Jeudi
 
