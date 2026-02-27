@@ -320,6 +320,14 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 14:00 | Lecture des commentaires des étudiants de 1ère année |
+| 14:15 | Redéfinition des objectifs                           |
+| 15:00 | Archivage                                            |
+| 15:30 | Montage d'une séquence vidéo de la maquette 2        |
+| 16:00 | Test d'un second effet de transition                 |
+
 ### Semaine 6.5
 
 #### Lundi
