@@ -167,6 +167,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 6.5
 
 #### Lundi
+- Acheter d'autres fleurs pour notre installation.
+- Faire le support visuel final de fleurs.
 
 #### Mardi
 
