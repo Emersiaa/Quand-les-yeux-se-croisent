@@ -332,6 +332,18 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 13:00 | Test sur les télévisions du premier effet et debogue |
+| 14:30 | Comment démarrer le projet avec Félix                |
+| 14:45 | Mise à jour du guide de démarrage                    |
+| 16:00 | Transfert des photos                                 |
+| 16:30 | Test d'un troisième effet                            |
+
+<img src="equipe/jade_hebert/av6.jpeg" 
+     alt="Ajout de supports visuels par Patricia" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mardi
 
 #### Mercredi
