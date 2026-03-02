@@ -169,6 +169,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
+- faire en sorte que les tests pour la captation des yeux soit plus facille a executer
+
 #### Mardi
 
 #### Mercredi
