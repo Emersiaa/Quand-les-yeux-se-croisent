@@ -178,11 +178,24 @@ Absente (maladie)
 
 #### Lundi
 
+- Faire des tests (annulé a cause de la panne du pare-feu du collège)
+
 #### Mardi
+
+- Tests du son (du au manque de temps, on a pas pu les régler) :
+ - Déclanchement du bruit de détection
 
 #### Mercredi
 
+- Tests de detection :
+ - longueur des points des yeux (sans succès)
+ - longueur des points des oreilles (sans succès)
+ - essai de changements dans le traitements des données (sans succès)
+
 #### Jeudi
+
+- Essai d'une nouvelle méthode de detection (sans succès)
+- Essai avec des données différentes (sans succès)
 
 #### Vendredi
 
