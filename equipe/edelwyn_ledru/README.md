@@ -196,6 +196,7 @@ Absente (maladie)
 
 - Essai d'une nouvelle méthode de detection (sans succès)
 - Essai avec des données différentes (sans succès)
+- Déclanchement de la bande sonore lors de la detection (réussite)
 
 #### Vendredi
 
@@ -203,7 +204,15 @@ Absente (maladie)
 
 #### Lundi
 
+- Tests de détection :
+ - Tests avec une différente donnée + distance entre les yeux (réussite mais un peu lente)
+
 #### Mardi
+
+- Optimisation du son dans pure Data : ajouter une transition 
+![](capture_ecran_pd.png)
+- Intégration de l'effet de Jade dans touchDesigner
+![](capture_ecran_effet_glitch_integration.png)
 
 #### Mercredi
 
