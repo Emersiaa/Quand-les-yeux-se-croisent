@@ -346,6 +346,17 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 14:00 | Test sur les télévisions du premier effet et debogue |
+| 15:00 | Génération de vidéos                                 |
+| 15:30 | Test des vidéos avec l'effet                         |
+| 16:00 | Test des vidéos sur les télévisions                  |
+
+<img src="equipe/jade_hebert/effet.gif" 
+     alt="Nouvel effet de transition" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
 
 #### Jeudi
