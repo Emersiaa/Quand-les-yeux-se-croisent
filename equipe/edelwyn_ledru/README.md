@@ -187,10 +187,8 @@ Absente (maladie)
 
 #### Mercredi
 
-- Tests de detection :
- - longueur des points des yeux (sans succès)
- - longueur des points des oreilles (sans succès)
- - essai de changements dans le traitements des données (sans succès)
+- participation au deplacement de l'oeuvre et du nouveau branchement
+![](deplacement_installation.jpg)
 
 #### Jeudi
 
