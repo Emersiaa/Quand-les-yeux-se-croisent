@@ -359,13 +359,24 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
-#### Jeudi
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 16:00 | Commentaires et modifications de la bande-annonce |
+| 16:15 | Ajout d'une transition dans l'effet des animaux   |
 
-#### Vendredi
+<img src="equipe/jade_hebert/effet2.gif" 
+     alt="Nouvel effet avec les animaux en mouvements" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 7
 
 #### Lundi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                           |
+| ----- | --------------------------------------------------------------------------- |
+| 14:00 | Création d'un formulaire pour les préférences sur l'horaire de présentation |
+| 14:20 | Archivage                                                                   |
+| 15:30 | Plans de plantation mise à jour                                             |
 
 #### Mardi
 
