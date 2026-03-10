@@ -1,4 +1,4 @@
-# Patrcia Nassif
+# Patricia Nassif
 
 ![](photo_patricia.jpg)
 
@@ -15,25 +15,25 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 2 : Présentation et intentions
 
 - Création du PowerPoint descriptif du projet
-- Commencer la bande d'annonce
+- Commencer la bande-annonce
 
 ### Semaine 3 : Début de production
 
 - Assemblage de la maquette 1
 - Début du tournage principal
-- Continuer et ou finir la bande d'annonce
+- Continuer et/ou finir la bande-annonce
 
 ### Semaine 4 : Production et développement
 
 - Poursuite du tournage
 - Personnalisation du site web
 - Tests de mise en ligne de contenu
-- Finir la bande d'annonce.
+- Finir la bande-annonce
 
 ### Semaine 5 : Intégration du contenu
 
-- Assemblage de la maquette 2 <br>
-- Faire une animation des lumières DNX (2)
+- Assemblage de la maquette 2 
+- Faire une animation des lumières DNX 
 - Poursuite du tournage
 - Intégration des contenus vidéo sur le site web
 - Ajustements visuels et fonctionnels du site
@@ -46,7 +46,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5 : Montage
 
-- Faire une animation des lumières DNX (4)
+- Faire une animation des lumières DNX 
 - Début du montage de la vidéo finale
 
 ### Semaine 7 : Finalisation et diffusion
@@ -82,7 +82,6 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
-
 ### Semaine 3
 
 #### Lundi
@@ -103,7 +102,6 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
-
 ### Semaine 4
 
 #### Lundi
@@ -122,7 +120,6 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Modifier les couleurs du site à la demande de Jade.
 
 #### Vendredi
-
 
 ### Semaine 5
 
@@ -143,7 +140,6 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
-
 ### Semaine 6
 
 #### Lundi
@@ -159,24 +155,25 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Créer une banque d’images de fleurs et la déposer sur le Drive.
 - Mettre à jour mon GitHub.
 - Rechercher du financement afin d’acheter davantage de fleurs pour le projet.
-- Faire un effet de particules et tracking avec Jade.
+- Faire un effet de particules et du tracking avec Jade.
 - Arranger une des animations de lumière.
-- Décider avec jade la diffusion des fleurs sur les petits écrans.
+- Décider avec Jade de la diffusion des fleurs sur les petits écrans.
+
 #### Vendredi
 
 ### Semaine 6.5
 
 #### Lundi
-- Acheter d'autres fleurs pour notre installation.
+- Acheter d’autres fleurs pour notre installation.
 - Faire le support visuel final de fleurs sur notre installation.
 
 #### Mardi
 
 #### Mercredi
-- Refaire la bande d'annonce presque au complet avec les commentaires des élèves.
+- Refaire la bande-annonce presque au complet avec les commentaires des élèves.
 
 #### Jeudi
-- Faire la logique Touch Designer pour se qui est afficher dans les petites écrans.
+- Faire la logique TouchDesigner pour ce qui est affiché dans les petits écrans.
 
 #### Vendredi
 - Continuer le montage de notre vidéo finale.
@@ -186,6 +183,11 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Lundi
 
 #### Mardi
+- Transformer toutes les images d’animaux en vidéos animées.
+- Appeler Pizza Salvatoré pour obtenir un estimé et préparer la livraison pour mardi le 17 mars à midi, porte 1 du collège.
+- Vérifier l’approbation du montant demandé à l’AGEM.
+- Trouver quelqu’un pour acheter les boissons.
+- Mettre à jour le GitHub de l’équipe.
 
 #### Mercredi
 
