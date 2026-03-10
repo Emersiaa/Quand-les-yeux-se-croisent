@@ -168,13 +168,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 - Acheter d'autres fleurs pour notre installation.
-- Faire le support visuel final de fleurs.
+- Faire le support visuel final de fleurs sur notre installation.
 
 #### Mardi
 
 #### Mercredi
+- Refaire la bande d'annonce presque au complet avec les commentaires des élèves.
 
 #### Jeudi
+- Faire la logique Touch Designer pour se qui est afficher dans les petites écrans.
 
 #### Vendredi
 
