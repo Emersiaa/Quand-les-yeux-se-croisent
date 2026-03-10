@@ -2,14 +2,15 @@
 
 Cette section présente le scénario de l'interactivité du projet.
 
+## Scénarisation de l'interactivité
 
 ### Scène 1
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|-----------------------------|--------------|--------------|------------------|
-| Entrer | Le visiteur suit le tapis vers l'exposition | Des empreintes d'animaux sur le tapis indiquent la direction | Une musique de fond organique légère boucle | NA |
-| Se déplacer | Le visiteur circule autour des télévisions sans entrer dans la zone de détection | Les télévisions rétro diffusent en boucle des regards d’animaux animés par un effet de morphing de particules | La musique de fond organique se poursuit | L’installation demeure en mode contemplatif |
-| S'approcher | S’approche du faisceau lumineux qui invite le visiteur à se positionner devant les télévisions | Les regards d’animaux continuent de défiler tandis que les lumières LED deviennent plus intenses pour signaler la zone d’interaction | La même musique de fond joue après un son de carillon une fois la présence captée | L'installation reconnait la présence du visiteur et passe à la scène 2 |
+| Entrer | Le visiteur entre dans l’espace de l’exposition | Les télévisions rétro diffusent en boucle des regards d’animaux animés par un effet de morphing de particules | Une musique de fond organique légère boucle | NA |
+| Se déplacer | Le visiteur circule autour des télévisions sans entrer dans la zone de détection | Les regards d’animaux continuent de défiler sur les écrans avec un morphing fluide | La musique de fond organique se poursuit | L’installation demeure en mode contemplatif |
+| S'approcher | Le visiteur s’approche du faisceau lumineux qui invite à se positionner devant les télévisions | Les regards d’animaux continuent de défiler tandis que les lumières LED deviennent plus intenses pour signaler la zone d’interaction | La même musique de fond joue après un son de carillon une fois la présence captée | L'installation reconnait la présence du visiteur et passe à la scène 2 |
 
 ### Scène 2
 
@@ -26,4 +27,4 @@ Cette section présente le scénario de l'interactivité du projet.
 
 | Verbe action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 |--------------|----------------------------|--------------|--------------|------------------|
-| Quitter | Inactivité totale | Les télévisions alternent entre les regards d’animaux et les yeux humains déjà captés. Les petits écrans présentent en boucle la collection de regards enregistrés et les lumières reprennent leur animation respiratoire | La même musique de fond joue avec une texture sonore évoquant une respiration | Passe à la scène 1 |
+| Quitter | Inactivité totale | Les télévisions rétro reprennent la boucle de regards d’animaux avec le morphing de particules. Les petits écrans présentent en boucle la collection de regards captés par les caméras et les lumières reprennent leur animation respiratoire | La même musique de fond joue avec une texture sonore évoquant une respiration | Passe à la scène 1 |
