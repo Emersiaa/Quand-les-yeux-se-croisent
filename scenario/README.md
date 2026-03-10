@@ -2,7 +2,6 @@
 
 Cette section présente le scénario de l'interactivité du projet.
 
-## Scénarisation de l'interactivité
 
 ### Scène 1
 
