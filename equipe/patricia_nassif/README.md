@@ -179,6 +179,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Faire la logique Touch Designer pour se qui est afficher dans les petites écrans.
 
 #### Vendredi
+- Continuer le montage de notre vidéo finale.
 
 ### Semaine 7
 
