@@ -24,13 +24,17 @@
 
 ## L'expérience
 
-L’expérience de **Quand les yeux se croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
+L’expérience de **Quand les yeux se croisent** plonge le spectateur dans un espace immersif où plusieurs télévisions rétro diffusent en boucle des vidéos d’yeux d’animaux. Ces images sont animées à l’aide d’un effet de particules qui crée un morphing entre les regards, donnant l’impression que les yeux se transforment et se répondent continuellement.
 
-Ce n’est que lorsqu’il entre dans une zone précise de chaque bord de l'installation, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté par une caméra dissimulée. Les écrans réagissent en faisant apparaître l'œil du spectateur, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, et l'ambiance sonore change également.
+Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
 
-Ces variations influencent également l’intensité lumineuse de part et d’autre des écrans, renforçant la sensation d’un contact direct, d'un sentiment de collectif : le regard ainsi collecté s'intégre à la collection de regards projetée dans l’installation, faisant du spectateur une partie active de l’œuvre.
+L’interaction s’active uniquement lorsque le spectateur entre dans une zone précise située de chaque côté de l’installation, marquée par un éclairage directionnel (spot lighting). C’est seulement lorsqu’il se trouve dans cette zone de détection, éclairé par la lumière, qu’une caméra dissimulée peut capter son regard.
 
-Ce jeu d’échanges visuels instaure un dialogue silencieux, brouillant la frontière entre celui qui observe et celui qui est observé. Une bande sonore immersive, diffusée en boucle, composée de textures subtiles inspirées de sons animaux et de bruitages de leur environnement, enveloppe l’espace et accentue la sensation d’évoluer dans un monde suspendu, où les regards se croisent, se répondent et se transforment.
+À ce moment, l’œil du spectateur apparaît sur les écrans et suit ses mouvements en temps réel. Les iris se déplacent en fonction de sa position, donnant l’impression que l’installation lui rend son regard. L’ambiance sonore et l’intensité lumineuse se modifient également, renforçant la sensation d’un échange direct.
+
+En parallèle, sur de petits écrans situés dans l’installation, une boucle d’images présente la collection de regards captés par les caméras. Chaque regard photographié vient s’ajouter à cette archive visuelle, transformant progressivement les visiteurs en participants actifs de l’œuvre.
+
+Ce jeu d’échanges visuels instaure un dialogue silencieux qui brouille la frontière entre celui qui observe et celui qui est observé. Une bande sonore immersive, composée de textures subtiles inspirées de sons animaux et de bruitages de leur environnement, enveloppe l’espace et accentue la sensation d’évoluer dans un monde suspendu, où les regards se croisent, se répondent et se transforment.
 
 ### Le parcours de l'interacteur
 
