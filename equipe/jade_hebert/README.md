@@ -380,6 +380,20 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>                   |
+| ----- | ------------------------------------------------------------------- |
+| 09:00 | Démarrage de l'installation et modifications du manuel de démarrage |
+| 09:40 | Génération des vidéos d'animaux avec Patricia                       |
+| 12:30 | Mise en ligne des vidéos des maquettes                              |
+| 13:00 | Génération des vidéos d'animaux                                     |
+| 14:00 | Intégration de mon travail dans le Touch du projet et debogue       |
+| 15:20 | Section Exposition                                                  |
+| 16:00 | Ajout de deux bandes lumières LED dans l'installation               |
+
+<img src="equipe/jade_hebert/av7.jpeg" 
+     alt="Génération des vidéos" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
 
 #### Jeudi
