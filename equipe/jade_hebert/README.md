@@ -396,6 +396,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>            |
+| ----- | ------------------------------------------------------------ |
+| 13:00 | Incorporer les yeux d'animaux animés dans le Touch du projet |
+
 #### Jeudi
 
 #### Vendredi
