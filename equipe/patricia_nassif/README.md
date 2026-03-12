@@ -205,8 +205,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 8
 
 #### Lundi
+- Présentation
 
 #### Mardi
+- Présentation et vernissage.
 
 #### Mercredi
 
