@@ -346,19 +346,59 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 14:00 | Test sur les télévisions du premier effet et debogue |
+| 15:00 | Génération de vidéos                                 |
+| 15:30 | Test des vidéos avec l'effet                         |
+| 16:00 | Test des vidéos sur les télévisions                  |
+
+<img src="equipe/jade_hebert/effet.gif" 
+     alt="Nouvel effet de transition" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
 
-#### Jeudi
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 16:00 | Commentaires et modifications de la bande-annonce |
+| 16:15 | Ajout d'une transition dans l'effet des animaux   |
 
-#### Vendredi
+<img src="equipe/jade_hebert/effet2.gif" 
+     alt="Nouvel effet avec les animaux en mouvements" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 7
 
 #### Lundi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>                           |
+| ----- | --------------------------------------------------------------------------- |
+| 14:00 | Création d'un formulaire pour les préférences sur l'horaire de présentation |
+| 14:20 | Archivage                                                                   |
+| 15:30 | Plans de plantation mise à jour                                             |
+
 #### Mardi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>                   |
+| ----- | ------------------------------------------------------------------- |
+| 09:00 | Démarrage de l'installation et modifications du manuel de démarrage |
+| 09:40 | Génération des vidéos d'animaux avec Patricia                       |
+| 12:30 | Mise en ligne des vidéos des maquettes                              |
+| 13:00 | Génération des vidéos d'animaux                                     |
+| 14:00 | Intégration de mon travail dans le Touch du projet et debogue       |
+| 15:20 | Section Exposition                                                  |
+| 16:00 | Ajout de deux bandes lumières LED dans l'installation               |
+
+<img src="equipe/jade_hebert/av7.jpeg" 
+     alt="Génération des vidéos" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>            |
+| ----- | ------------------------------------------------------------ |
+| 13:00 | Incorporer les yeux d'animaux animés dans le Touch du projet |
 
 #### Jeudi
 

@@ -99,7 +99,7 @@ Créer des expériences auditives
 
 Plans d'implantation 2D
 
-![](plan_plantation_2d_ver_6.jpg)
+![](plan_plantation_03.jpeg)
 
 Plan d'implantation 3D
 
@@ -108,10 +108,9 @@ Plan d'implantation 3D
 
 ## Budget estimé
 
-| Nom                    | Prix    | Quantité |
-| ---------------------- | ------- | -------- |
-| Rayonnage              | 500$    | 1        |
-| Télévision cathodiques |  | 4        |
-| Fleurs                 |   | 6        |
+| Nom                    | Prix | Quantité |
+| ---------------------- | ---- | -------- |
+| Rayonnage              | 508$ | 1        |
+| Tissu noir |  227,57    | 1      |
 
-Total: 513.55$
+Total: 735,57$

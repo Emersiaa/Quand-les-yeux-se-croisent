@@ -24,13 +24,17 @@
 
 ## L'expérience
 
-L’expérience de **Quand les yeux se croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
+L’expérience de **Quand les yeux se croisent** plonge le spectateur dans un espace immersif où plusieurs télévisions rétro diffusent en boucle des vidéos d’yeux d’animaux. Ces images sont animées à l’aide d’un effet de particules qui crée un morphing entre les regards, donnant l’impression que les yeux se transforment et se répondent continuellement.
 
-Ce n’est que lorsqu’il entre dans une zone précise de chaque bord de l'installation, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté par une caméra dissimulée. Les écrans réagissent en faisant apparaître l'œil du spectateur, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, et l'ambiance sonore change également.
+Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
 
-Ces variations influencent également l’intensité lumineuse de part et d’autre des écrans, renforçant la sensation d’un contact direct, d'un sentiment de collectif : le regard ainsi collecté s'intégre à la collection de regards projetée dans l’installation, faisant du spectateur une partie active de l’œuvre.
+L’interaction s’active uniquement lorsque le spectateur entre dans une zone précise située de chaque côté de l’installation, marquée par un éclairage directionnel (spot lighting). C’est seulement lorsqu’il se trouve dans cette zone de détection, éclairé par la lumière, qu’une caméra dissimulée peut capter son regard.
 
-Ce jeu d’échanges visuels instaure un dialogue silencieux, brouillant la frontière entre celui qui observe et celui qui est observé. Une bande sonore immersive, diffusée en boucle, composée de textures subtiles inspirées de sons animaux et de bruitages de leur environnement, enveloppe l’espace et accentue la sensation d’évoluer dans un monde suspendu, où les regards se croisent, se répondent et se transforment.
+À ce moment, l’œil du spectateur apparaît sur les écrans et suit ses mouvements en temps réel. Les iris se déplacent en fonction de sa position, donnant l’impression que l’installation lui rend son regard. L’ambiance sonore et l’intensité lumineuse se modifient également, renforçant la sensation d’un échange direct.
+
+En parallèle, sur de petits écrans situés dans l’installation, une boucle d’images présente la collection de regards captés par les caméras. Chaque regard photographié vient s’ajouter à cette archive visuelle, transformant progressivement les visiteurs en participants actifs de l’œuvre.
+
+Ce jeu d’échanges visuels instaure un dialogue silencieux qui brouille la frontière entre celui qui observe et celui qui est observé. Une bande sonore immersive, composée de textures subtiles inspirées de sons animaux et de bruitages de leur environnement, enveloppe l’espace et accentue la sensation d’évoluer dans un monde suspendu, où les regards se croisent, se répondent et se transforment.
 
 ### Le parcours de l'interacteur
 
@@ -40,15 +44,19 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans l’espace et est libre de circuler autour des télévisions anciennes disposées comme une sculpture rectangulaire. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
+L’interacteur entre dans l’espace et est libre de circuler autour des télévisions anciennes disposées comme une sculpture rectangulaire. Sur les écrans des télévisions rétro défilent en boucle des regards d’animaux. Ces images sont reliées entre elles par un effet de morphing fluide réalisé à l’aide de particules, donnant l’impression que les regards se transforment lentement les uns dans les autres.
 
 Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque.
 
-[![Inspirations d'effets visuels](inspi_effet_visuel.png)](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2366906_cmontmorency_qc_ca/IQCDhmMmDv5HSpxEEre7HbR7AWAR6kTUi9sidAu_5q-chiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=f74yqf)
+Lorsqu’il s’arrête sous les lumières jaunes, situées de chaque côté de la structure, l’interacteur entre dans la zone de détection et fait face aux télévisions. Une caméra dissimulée capte alors son regard. À ce moment précis, l’image des écrans réagit : le regard du spectateur apparaît en temps réel et son iris devient l’image centrale projetée sur deux des télévisions.
 
-Lorsqu’il s’arrête sous les lumières jaunes, d'un bord ou l'autre de la structure, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme en son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité lumineuse des barres LED autour de l'installation. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
+S’il se déplace de gauche à droite, son iris se déplace également sur les écrans, comme si les télévisions suivaient ses mouvements. Cette interaction influence aussi l’intensité lumineuse des barres LED autour de l’installation. Avant l’arrivée du spectateur, ces barres pulsaient selon un rythme doux dans des couleurs variées, évoquant une respiration visuelle.
 
-Après quelques instants, la séquence initiale des yeux humains et animaux reprend tout en intégrant désormais le regard de l’interacteur à la collection en boucle. À travers ce parcours, il vit une expérience introspective où son propre regard, absorbé par le dispositif, devient une partie de l'oeuvre.
+Après quelques instants, les télévisions rétro reprennent leur séquence initiale de regards d’animaux. Cependant, le regard capté du spectateur ne disparaît pas complètement : il est photographié et ajouté à une collection de regards présentée en boucle sur de petits écrans intégrés à l’installation. Ainsi, chaque visiteur laisse une trace visuelle qui s’accumule progressivement dans l’œuvre.
+
+À travers ce parcours, l’interacteur vit une expérience introspective où son propre regard, capté puis archivé par le dispositif, devient une partie de l’œuvre.
+
+
 
 ### L'espace
 
@@ -56,9 +64,9 @@ Après quelques instants, la séquence initiale des yeux humains et animaux repr
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-L’installation de **Quand les yeux se croisent** prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, où les télévisions rétro disposées comme des balises visuelles sont décorées de fleurs et où un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
+L’installation de **Quand les yeux se croisent** prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, où les télévisions rétro disposées comme une sculpture rectangulaire agissent comme des balises visuelles. Entourées de fleurs et accompagnées d’un éclairage tamisé, elles contribuent à créer une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
 
-L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur.
+L’espace virtuel se déploie à l’intérieur des écrans : les télévisions rétro présentent les regards d’animaux animés par des effets de morphing, tandis que les petits écrans diffusent la collection de regards captés par les caméras. L’espace physique et l’espace numérique se répondent ainsi continuellement, transformant le spectateur en participant actif de l’installation.
 
 <img src="concept\studios.svg" 
      alt="Plan du grand studio" 
