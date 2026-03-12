@@ -204,6 +204,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 10:30 | Continuation du manuel de démarrage               |
 | 15:30 | Entrevue                                          |
 
+<img src="equipe/jade_hebert/video_final.gif" 
+     alt="Entrevue" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
 
 | Heure | <div style="width:550px">Tâches accomplies </div>              |
@@ -318,6 +322,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 15:30 | Recherche d'application pour animer nos animaux   |
 | 16:30 | Archivage                                         |
 
+<iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7c" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
+
 #### Vendredi
 
 | Heure | <div style="width:550px">Tâches accomplies </div>    |
@@ -399,8 +405,25 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | Heure | <div style="width:550px">Tâches accomplies </div>            |
 | ----- | ------------------------------------------------------------ |
 | 13:00 | Incorporer les yeux d'animaux animés dans le Touch du projet |
+| 15:00 | Faire l'indicateur d'emplacement                             |
 
 #### Jeudi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                       |
+| ----- | ----------------------------------------------------------------------- |
+| 10:00 | Amélioration du manuel de démarrage                                     |
+| 11:00 | Changement de la lentille                                               |
+| 13:30 | Démarrage de l'installation avec Patricia                               |
+| 13:45 | Tests et debogue                                                        |
+| 14:30 | Couriels pour l'affichage de notre affiche                              |
+| 16:00 | Débranchement de l'ordinateur pour l'envoyer dans la salle des matrices |
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+
+  <img src="equipe/jade_hebert/av8.jpeg" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+  <img src="equipe/jade_hebert/av9.jpeg" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+
+</div>
 
 #### Vendredi
 
