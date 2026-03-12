@@ -224,7 +224,15 @@ Absente (maladie)
 
 #### Mardi
 
+- Intégration du code de Félix pour l'enregistrement des yeux
+- Intégration de l'effet particule complet de Jade
+- Ajout d'un 2e dossier pour les vidéos de yeux dans la boucle et d'un chronomètre qui rafraichi le folder DAT au chaque 10 secondes
+
+![](capture_ecran_03-10.png)
+
 #### Mercredi
+
+Annulation de cours 
 
 #### Jeudi
 
