@@ -190,8 +190,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Mettre à jour le GitHub de l’équipe.
 
 #### Mercredi
+- Finir la vidéo finale.
+- Enlever les watermarks des 11 vidéos problématiques.
+- Renommer correctement tout les vidéos.
 
 #### Jeudi
+- Ajouter du tissu noir que j'ai coupée sur le reste du bois visible.
+- Faire des tests de leentilles de caméra.
+- Faire le design à mettre au sol.
+- Ranger tout le matériel non essentiel dans la salle des matrices.
 
 #### Vendredi
 
