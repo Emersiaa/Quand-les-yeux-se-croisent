@@ -18,6 +18,10 @@ Installation contemplative et interactive
 
 [Quand les yeux se croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
 
+### Site Web de l'exposition collective :
+
+[Réseau vivant](https://tim-montmorency.com/2026/#/)
+
 ### Prix :
 
 Gratuit

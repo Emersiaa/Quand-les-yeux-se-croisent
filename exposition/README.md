@@ -9,7 +9,7 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 | Jour     | Heure     | Responsable                                 |
 | -------- | --------- | ------------------------------------------- |
 | Lundi    | 11h à 20h | Patricia Nassif, Manel Yaya et Félix Lavoie |
-| Mardi    | 11h à 21h | Patricia Nassif et Jade Hébert              |
+| Mardi    | 11h à 20h | Patricia Nassif et Jade Hébert              |
 | Mercredi | 11h à 20h | Edelwyn Ledru, Manel Yaya et Félix Lavoie   |
 | Jeudi    | 11h à 20h | Jade Hébert, Edelwyn Ledru et Manel Yaya    |
 | Vendredi | 11h à 20h | Toutes l'équipe d'Emersia                   |
