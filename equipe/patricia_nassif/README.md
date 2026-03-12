@@ -32,8 +32,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5 : Intégration du contenu
 
-- Assemblage de la maquette 2 
-- Faire une animation des lumières DNX 
+- Assemblage de la maquette 2
+- Faire une animation des lumières DMX
 - Poursuite du tournage
 - Intégration des contenus vidéo sur le site web
 - Ajustements visuels et fonctionnels du site
@@ -46,7 +46,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5 : Montage
 
-- Faire une animation des lumières DNX 
+- Faire une animation des lumières DMX
 - Début du montage de la vidéo finale
 
 ### Semaine 7 : Finalisation et diffusion
@@ -170,10 +170,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Mardi
 
 #### Mercredi
-- Refaire la bande-annonce presque au complet avec les commentaires des élèves.
+- Refaire la bande-annonce presque au complet en tenant compte des commentaires des élèves.
 
 #### Jeudi
-- Faire la logique TouchDesigner pour ce qui est affiché dans les petits écrans.
+- Faire la logique TouchDesigner pour ce qui est affiché sur les petits écrans.
 
 #### Vendredi
 - Continuer le montage de notre vidéo finale.
@@ -191,12 +191,12 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 - Finir la vidéo finale.
-- Enlever les watermarks des 11 vidéos problématiques.
-- Renommer correctement tout les vidéos.
+- Enlever les filigranes (watermarks) des 11 vidéos problématiques.
+- Renommer correctement toutes les vidéos.
 
 #### Jeudi
-- Ajouter du tissu noir que j'ai coupée sur le reste du bois visible.
-- Faire des tests de leentilles de caméra.
+- Ajouter du tissu noir que j’ai coupé sur le reste du bois visible.
+- Faire des tests de lentilles de caméra.
 - Faire le design à mettre au sol.
 - Ranger tout le matériel non essentiel dans la salle des matrices.
 
@@ -205,7 +205,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 8
 
 #### Lundi
-- Présentation
+- Présentation.
 
 #### Mardi
 - Présentation et vernissage.
