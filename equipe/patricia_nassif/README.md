@@ -178,6 +178,11 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Vendredi
 - Continuer le montage de notre vidéo finale.
 
+
+<img src="equipe/jade_hebert/av6.jpeg" 
+alt="Ajout de supports visuels par Patricia" 
+style="width:100%; height:auto; border-radius:10px;">
+
 ### Semaine 7
 
 #### Lundi
