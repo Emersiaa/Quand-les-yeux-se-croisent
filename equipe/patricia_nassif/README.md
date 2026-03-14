@@ -159,6 +159,16 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Arranger une des animations de lumière.
 - Décider avec Jade de la diffusion des fleurs sur les petits écrans.
 
+  <img src="equipe/jade_hebert/maquette2_resultat.jpeg" 
+     alt="Maquette 2" 
+     style="width:100%; height:auto; border-radius:10px;">
+
+     <img src="equipe/jade_hebert/av5.jpeg" 
+     alt="Montage de l'installation à son nouvel emplacement" 
+     style="width:100%; height:auto; border-radius:10px;">
+
+     <iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7c" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
+
 #### Vendredi
 
 ### Semaine 6.5
