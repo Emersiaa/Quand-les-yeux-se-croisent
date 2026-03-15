@@ -128,6 +128,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Faire approuver le nouveau logo et le mettre en ligne.
 - Modifier les couleurs du site à la demande de Jade.
 
+    <img src="equipe/patricia_nassif/entrevue.gif" 
+    alt="Entrevue" 
+    style="width:100%; height:auto; border-radius:10px;">
+
 #### Vendredi
 
 ### Semaine 5
