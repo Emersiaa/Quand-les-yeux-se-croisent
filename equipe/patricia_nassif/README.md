@@ -199,7 +199,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 
 <img src="equipe/jade_hebert/av6.jpeg" 
-alt="Ajout de supports visuels par Patricia" 
+alt="Mise au point du projet avec Jade" 
 style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 7
