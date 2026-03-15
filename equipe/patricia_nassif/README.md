@@ -82,6 +82,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
+  <img src="equipe/patricia_nassif/pinterest.jpeg" 
+    alt="Inspiration" 
+    style="width:100%; height:auto; border-radius:10px;">
+
 ### Semaine 3
 
 #### Lundi
@@ -99,6 +103,11 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 #### Jeudi
 - Vérifier le bon fonctionnement de l’installation et réaliser l’arrangement floral.
 - Présenter notre programme et la maquette 1 lors des portes ouvertes.
+
+    <img src="equipe/patricia_nassif/moi.jpeg" 
+    alt="Maquette 1" 
+    style="width:100%; height:auto; border-radius:10px;">
+
 
 #### Vendredi
 
@@ -214,6 +223,10 @@ style="width:100%; height:auto; border-radius:10px;">
 - Faire des tests de lentilles de caméra.
 - Faire le design à mettre au sol.
 - Ranger tout le matériel non essentiel dans la salle des matrices.
+
+<img src="equipe/patricia_nassif/moi_jade.jpeg" 
+alt="Ajout de supports visuels par Patricia" 
+style="width:100%; height:auto; border-radius:10px;">
 
 #### Vendredi
 
