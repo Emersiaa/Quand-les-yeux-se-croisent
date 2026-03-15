@@ -322,7 +322,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 15:30 | Recherche d'application pour animer nos animaux   |
 | 16:30 | Archivage                                         |
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7c" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7cc" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
 
 #### Vendredi
 
@@ -420,12 +420,38 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
 
-  <img src="equipe/jade_hebert/av8.jpeg" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
-  <img src="equipe/jade_hebert/av9.jpeg" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+  <img src="equipe/jade_hebert/av8.jpeg" alt="Changement des deux lentilles avec Mathieu" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+  <img src="equipe/jade_hebert/av9.jpeg" alt="Déplacement de l'ordinateur dans la salle des matrices" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
 
 </div>
 
 #### Vendredi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                                                 |
+| ----- | ------------------------------------------------------------------------------------------------- |
+| 12:00 | Démarrage de notre installation par les autres finissants afin d'améliorer le manuel de démarrage |
+| 13:00 | Modification du moyen de détection                                                                |
+| 14:00 | Stress Test                                                                                       |
+| 15:30 | Repositionement des lumières spotlights                                                           |
+| 16:00 | Découpage de l'indicatif de positionnement                                                        |
+
+<img src="equipe/jade_hebert/av10.jpg" 
+     alt="Modification du projet avec l'équipe Mammouths" 
+     style="width:100%; height:auto; border-radius:10px;">
+
+#### Dimanche
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                                     |
+| ----- | ------------------------------------------------------------------------------------- |
+| 09:00 | Modification du projet pour voir des animaux différents dans les quatre télévisions   |
+| 10:00 | Ajustement de la bande sonore et ajout d'un Fade Out pour améliorer l'effet de boucle |
+| 10:20 | Tournage de l'installation finale                                                     |
+| 11:00 | Rangement de la table de travail                                                      |
+| 15:00 | Dernières modifications du manuel de démarrage selon les commentaires des pairs       |
+
+<img src="equipe/jade_hebert/demarrage.gif" 
+     alt="Démarrage de l'installation" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 8
 
