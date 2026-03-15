@@ -21,3 +21,5 @@ Cette section décrit les étapes nécessaires pour ouvrir l’installation chaq
 [![](manuel.png)](https://cmontmorency365-my.sharepoint.com/:p:/g/personal/2366906_cmontmorency_qc_ca/IQB4jG9_nB8wSKxrJXDVvkz0AZkd3M1SxPAFT7RPPOKL3d8?e=gdaaHl)
 
 ## Documentation vidéo finale
+
+[![Lien vers la vidéo finale](bande_annonce.jpeg)](https://youtu.be/P184NXsw9Vk)
