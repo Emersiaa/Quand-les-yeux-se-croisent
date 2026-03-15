@@ -85,15 +85,9 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
-<<<<<<< Updated upstream
 <img src="equipe/patricia_nassif/pinterest.jpg"
 alt="Inspiration"
 style="width:100%; height:auto; border-radius:10px;">
-=======
-<img src="equipe/patricia_nassif/pinterest.jpeg" 
-    alt="Inspiration" 
-    style="width:100%; height:auto; border-radius:10px;">
->>>>>>> Stashed changes
 
 ### Semaine 3
 
@@ -116,15 +110,9 @@ style="width:100%; height:auto; border-radius:10px;">
 - Vérifier le bon fonctionnement de l’installation et réaliser l’arrangement floral.
 - Présenter notre programme et la maquette 1 lors des portes ouvertes.
 
-<<<<<<< Updated upstream
 <img src="equipe/patricia_nassif/moi.jpg"
 alt="Maquette1"
 style="width:100%; height:auto; border-radius:10px;">
-=======
-  <img src="equipe/patricia_nassif/moi.jpeg" 
-    alt="Maquette 1" 
-    style="width:100%; height:auto; border-radius:10px;">
->>>>>>> Stashed changes
 
 #### Vendredi
 
@@ -203,17 +191,10 @@ style="width:100%; height:auto; border-radius:10px;">
   style="width:100%; height:auto; border-radius:10px;">
 
   <img src="equipe/jade_hebert/av5.jpeg" 
-<<<<<<< Updated upstream
   alt="Montage de l'installation à son nouvel emplacement" 
   style="width:100%; height:auto; border-radius:10px;">
 
   <iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7c" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-      origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
-=======
-     alt="Montage de l'installation à son nouvel emplacement" 
-     style="width:100%; height:auto; border-radius:10px;">
-
-     <iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7cc" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
->>>>>>> Stashed changes
 
 #### Vendredi
 
@@ -241,7 +222,6 @@ style="width:100%; height:auto; border-radius:10px;">
 <img src="equipe/jade_hebert/av6.jpeg" 
 alt="Ajout de supports visuels" 
 style="width:100%; height:auto; border-radius:10px;">
-
 
 ### Semaine 7
 
@@ -272,8 +252,6 @@ style="width:100%; height:auto; border-radius:10px;">
 alt="Mise au point du projet avec Jade" 
 style="width:100%; height:auto; border-radius:10px;">
 
-
-
 #### Vendredi
 
 ### Semaine 8
@@ -291,4 +269,5 @@ style="width:100%; height:auto; border-radius:10px;">
 #### Jeudi
 
 #### Vendredi
+
 - Démonter notre installation.
