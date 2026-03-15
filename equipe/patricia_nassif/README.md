@@ -82,7 +82,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Vendredi
 
-<img src="pinterest.jpg"
+<img src="equipe/patricia_nassif/pinterest.jpg">
 alt="Inspiration"
 style="width:100%; height:auto; border-radius:10px;">
 
@@ -104,7 +104,7 @@ style="width:100%; height:auto; border-radius:10px;">
 - Vérifier le bon fonctionnement de l’installation et réaliser l’arrangement floral.
 - Présenter notre programme et la maquette 1 lors des portes ouvertes.
 
-<img src="moi.jpg"
+<img src="equipe/patricia_nassif/moi.jpg">
 alt="Maquette1"
 style="width:100%; height:auto; border-radius:10px;">
 
@@ -229,7 +229,7 @@ style="width:100%; height:auto; border-radius:10px;">
 - Faire le design à mettre au sol.
 - Ranger tout le matériel non essentiel dans la salle des matrices.
 
-<img src="moi_jade.jpg"
+<img src="equipe/patricia_nassif/moi_jade.jpg">
 alt="Mise au point du projet avec Jade" 
 style="width:100%; height:auto; border-radius:10px;">
 
