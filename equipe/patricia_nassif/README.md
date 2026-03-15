@@ -229,7 +229,7 @@ style="width:100%; height:auto; border-radius:10px;">
 - Faire le design à mettre au sol.
 - Ranger tout le matériel non essentiel dans la salle des matrices.
 
-<img src="equipe/patricia_nassif/moi_jade.jpg">
+<img src="equipe/patricia_nassif/moi_jade.jpg"
 alt="Mise au point du projet avec Jade" 
 style="width:100%; height:auto; border-radius:10px;">
 
