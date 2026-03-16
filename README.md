@@ -2,7 +2,7 @@
 
 <!-- Bannderole / Bande-annonce -->
 
-[![](dossier_presse/bande_annonce.jpeg)](https://www.youtube.com/watch?v=kSw9bmIA6bc)
+[![](dossier_presse/bande_annonce.mp4)](https://youtu.be/PYq4xPSagCM)
 
 ## Description
 

@@ -32,8 +32,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 
-- Assemblage de la maquette 2 <br>
-  - Création des sons d’animaux
+- Assemblage de la maquette 2 
+- Création des sons d’animaux
 - Tourner la vidéo d'annonce
 
 ### Semaine 6
@@ -80,6 +80,7 @@ Finalisation de certaines diapositives du PowerPoint. Ajustements mineurs aux am
 ### Semaine 3
 
 #### Lundi
+Rien
 
 #### Mardi
 Début de la création des sons interactifs de captation. Expérimentations avec des sons courts et réactifs pour créer une interaction immersive.
@@ -107,26 +108,35 @@ Montage sonore de la bande d'annonce
 #### Jeudi
 continuation de la bande d'annonce
 #### Vendredi
+Rien
 
 ### Semaine 5
 
 #### Lundi
+Assemblage de la maquette 2 , rajout de l'ambiance sonore dans l'installation, changement de l'ambiance trop statique
 
 #### Mardi
+Ajout de variations de pitch dans l'ambiance sonore, rajour plus de bruits de natures
 
 #### Mercredi
+Ajout d'une deuxieme ambiance sonore pour ameliorer l'interactivite, variation de pitch, rajout de bass
 
 #### Jeudi
+changement de l'ambiance sonore de la bande annonce
 
 #### Vendredi
+Rien
 
 ### Semaine 6
 
 #### Lundi
+creation de sons animaux, oiseaux et corbeau
 
 #### Mardi
+Creation de sons d'animaux de lion et ...
 
 #### Mercredi
+
 
 #### Jeudi
 
@@ -135,20 +145,26 @@ continuation de la bande d'annonce
 ### Semaine 6.5
 
 #### Lundi
+Faire le design de l'affiche du plan de l'ecole
 
 #### Mardi
+Continuation du design de l'affiche du plan d'ecole
 
 #### Mercredi
+Creation d'une animation de lumieres pour les lumieres DMX sur  QLC+
 
 #### Jeudi
+Corrections de la bande sonore de la bande annonce apre les commentaires des eleves
 
 #### Vendredi
+Rien
 
 ### Semaine 7
 
 #### Lundi
 
 #### Mardi
+Test des lumieres DMX, continuation de la bande sonore de la bande annonce
 
 #### Mercredi
 
