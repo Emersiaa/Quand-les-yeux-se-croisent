@@ -81,22 +81,27 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 ### Images
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
-
   <img src="dossier_presse/img_03.jpg" style="width: 100%; height: 300px; object-fit: cover;">
   <img src="dossier_presse/img_04.jpg" style="width: 100%; height: 300px; object-fit: cover;">
-
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 8px">
   <img src="dossier_presse/img_01.jpg" style="width: 100%; height: 300px; object-fit: cover;">
   <img src="dossier_presse/img_02.jpg" style="width: 100%; height: 300px; object-fit: cover;">
   <img src="dossier_presse/img_05.jpg" style="width: 100%; height: 300px; object-fit: cover;">
-
 </div>
  
 <br>
 
 <img src="dossier_presse/maquette1.gif" alt="Maquette 1 - Portes ouvertes" style="width: 100%; height: 300px; object-fit: cover;">
+
+<br>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 8px">
+  <img src="dossier_presse/img_06.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_07.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_08.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+</div>
 
 <br>
 
@@ -114,7 +119,7 @@ Elle est responsable du contenu visuel de l’exposition. Elle crée l’ensembl
 
 #### Jade Hébert – Coordonnatrice
 
-Elle orchestre le travail de l’équipe, établit les objectifs et fixe les échéances. Elle veille à la cohésion entre les différents pôles du projet, en plus de superviser les achats et l’installation de l’œuvre.
+Elle orchestre le travail de l’équipe, établit les objectifs et fixe les échéances. Elle veille à la cohésion entre les différents pôles du projet, en plus de superviser les achats et l’installation de l’œuvre. Elle est également responsable de l’archivage et de l’organisation des documents du projet.
 
 #### Manel Yaya – Directrice audiovisuelle
 
@@ -122,7 +127,7 @@ Elle est responsable de l’ensemble de l’aspect sonore du projet, autant pour
 
 #### Edelwyn Ledru – Intégratrice de projet et designer
 
-Elle assure le développement fonctionnel de l’installation, incluant les animations des médias et la programmation des effets lumineux. Elle est également responsable de l’archivage et de l’organisation des documents du projet.
+Elle assure le développement fonctionnel de l’installation, incluant les animations des médias et la programmation des effets lumineux. Elle s'occupe de faire les tests et de pousser le plus possible le projet pour le rendre à la fois visuellement beau, mais tout aussi fonctionnel.
 
 #### Félix Lavoie – Technicien et programmeur
 
