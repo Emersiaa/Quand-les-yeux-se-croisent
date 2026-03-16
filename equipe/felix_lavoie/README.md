@@ -160,11 +160,17 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Jeudi
 
+- faire marcher les baton led séparément
+- réinstaller les spotlight
+
 #### Vendredi
 
 ### Semaine 6.5
 
 #### Lundi
+
+- faire en sorte que les tests pour la captation des yeux soit plus facille a executer
+- tester et ameliorer la qualiter de la captation
 
 #### Mardi
 
@@ -180,9 +186,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
+- installer les lumières au plafond et faire leur logistique.
+
 #### Mercredi
 
 #### Jeudi
+
+- refaire la logic de tracking pour fonctionner avec les camera a l'enver
+- installer l'ordi principale dans la salle des matrice
+- nettoyer notre espace d'exposition
 
 #### Vendredi
 

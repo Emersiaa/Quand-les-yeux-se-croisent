@@ -178,11 +178,23 @@ Absente (maladie)
 
 #### Lundi
 
+- Faire des tests (annulé a cause de la panne du pare-feu du collège)
+
 #### Mardi
+
+- Tests du son (du au manque de temps, on a pas pu les régler) :
+ - Déclanchement du bruit de détection
 
 #### Mercredi
 
+- participation au deplacement de l'oeuvre et du nouveau branchement
+![](deplacement_installation.jpg)
+
 #### Jeudi
+
+- Essai d'une nouvelle méthode de detection (sans succès)
+- Essai avec des données différentes (sans succès)
+- Déclanchement de la bande sonore lors de la detection (réussite)
 
 #### Vendredi
 
@@ -190,7 +202,15 @@ Absente (maladie)
 
 #### Lundi
 
+- Tests de détection :
+ - Tests avec une différente donnée + distance entre les yeux (réussite mais un peu lente)
+
 #### Mardi
+
+- Optimisation du son dans pure Data : ajouter une transition 
+![](capture_ecran_pd.png)
+- Intégration de l'effet de Jade dans touchDesigner
+![](capture_ecran_effet_glitch_integration.png)
 
 #### Mercredi
 
@@ -204,7 +224,16 @@ Absente (maladie)
 
 #### Mardi
 
+Dans touchdesigner :
+- Intégration du code de Félix pour l'enregistrement des yeux
+- Intégration de l'effet particule complet de Jade
+- Ajout d'un 2e dossier pour le côté verso de l'installation pour les vidéos de yeux dans la boucle et d'un chronomètre qui rafraichi le folder DAT au chaque 10 secondes
+
+![](capture_ecran_03-10.png)
+
 #### Mercredi
+
+Annulation de cours 
 
 #### Jeudi
 

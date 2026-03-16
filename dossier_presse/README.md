@@ -18,6 +18,10 @@ Installation contemplative et interactive
 
 [Quand les yeux se croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
 
+### Site Web de l'exposition collective :
+
+[Réseau vivant](https://tim-montmorency.com/2026/#/)
+
 ### Prix :
 
 Gratuit
@@ -89,6 +93,14 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
   <img src="dossier_presse/img_05.jpg" style="width: 100%; height: 300px; object-fit: cover;">
 
 </div>
+ 
+<br>
+
+<img src="dossier_presse/maquette1.gif" alt="Maquette 1 - Portes ouvertes" style="width: 100%; height: 300px; object-fit: cover;">
+
+<br>
+
+<img src="dossier_presse/maquette2.gif" alt="Maquette 2 - Présentation au trou à l'horaire" style="width: 100%; height: 300px; object-fit: cover;">
 
 ### À propos de l'équipe de création
 
@@ -118,7 +130,7 @@ Il s’occupe du matériel technique et des branchements. Il programme les diff�
 
 ### Crédits
 
-Un énorme merci aux TTP et à nos professeurs Thomas Frederiks et Guillaume Arsenault.
+Un énorme merci aux TTP, Mathieu Willett et à nos professeurs Thomas O Frederiks et Guillaume Arsenault.
 
 ### Contact
 

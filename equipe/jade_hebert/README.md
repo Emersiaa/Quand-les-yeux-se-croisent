@@ -204,6 +204,10 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 10:30 | Continuation du manuel de démarrage               |
 | 15:30 | Entrevue                                          |
 
+<img src="equipe/jade_hebert/video_final.gif" 
+     alt="Entrevue" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mercredi
 
 | Heure | <div style="width:550px">Tâches accomplies </div>              |
@@ -312,32 +316,142 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | Heure | <div style="width:550px">Tâches accomplies </div> |
 | ----- | ------------------------------------------------- |
 | 10:00 | Plan de l'installation finale                     |
+| 11:00 | Recherche d'effet de transition                   |
+| 12:00 | Test d'un effet                                   |
+| 14:00 | Deuxième test de l'effet                          |
+| 15:30 | Recherche d'application pour animer nos animaux   |
+| 16:30 | Archivage                                         |
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7cc" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
 
 #### Vendredi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 14:00 | Lecture des commentaires des étudiants de 1ère année |
+| 14:15 | Redéfinition des objectifs                           |
+| 15:00 | Archivage                                            |
+| 15:30 | Montage d'une séquence vidéo de la maquette 2        |
+| 16:00 | Test d'un second effet de transition                 |
 
 ### Semaine 6.5
 
 #### Lundi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 13:00 | Test sur les télévisions du premier effet et debogue |
+| 14:30 | Comment démarrer le projet avec Félix                |
+| 14:45 | Mise à jour du guide de démarrage                    |
+| 16:00 | Transfert des photos                                 |
+| 16:30 | Test d'un troisième effet                            |
+
+<img src="equipe/jade_hebert/av6.jpeg" 
+     alt="Ajout de supports visuels par Patricia" 
+     style="width:100%; height:auto; border-radius:10px;">
+
 #### Mardi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>    |
+| ----- | ---------------------------------------------------- |
+| 14:00 | Test sur les télévisions du premier effet et debogue |
+| 15:00 | Génération de vidéos                                 |
+| 15:30 | Test des vidéos avec l'effet                         |
+| 16:00 | Test des vidéos sur les télévisions                  |
+
+<img src="equipe/jade_hebert/effet.gif" 
+     alt="Nouvel effet de transition" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 #### Mercredi
 
-#### Jeudi
+| Heure | <div style="width:550px">Tâches accomplies </div> |
+| ----- | ------------------------------------------------- |
+| 16:00 | Commentaires et modifications de la bande-annonce |
+| 16:15 | Ajout d'une transition dans l'effet des animaux   |
 
-#### Vendredi
+<img src="equipe/jade_hebert/effet2.gif" 
+     alt="Nouvel effet avec les animaux en mouvements" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 7
 
 #### Lundi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>                           |
+| ----- | --------------------------------------------------------------------------- |
+| 14:00 | Création d'un formulaire pour les préférences sur l'horaire de présentation |
+| 14:20 | Archivage                                                                   |
+| 15:30 | Plans de plantation mise à jour                                             |
+
 #### Mardi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                   |
+| ----- | ------------------------------------------------------------------- |
+| 09:00 | Démarrage de l'installation et modifications du manuel de démarrage |
+| 09:40 | Génération des vidéos d'animaux avec Patricia                       |
+| 12:30 | Mise en ligne des vidéos des maquettes                              |
+| 13:00 | Génération des vidéos d'animaux                                     |
+| 14:00 | Intégration de mon travail dans le Touch du projet et debogue       |
+| 15:20 | Section Exposition                                                  |
+| 16:00 | Ajout de deux bandes lumières LED dans l'installation               |
+
+<img src="equipe/jade_hebert/av7.jpeg" 
+     alt="Génération des vidéos" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 #### Mercredi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>            |
+| ----- | ------------------------------------------------------------ |
+| 13:00 | Incorporer les yeux d'animaux animés dans le Touch du projet |
+| 15:00 | Faire l'indicateur d'emplacement                             |
+
 #### Jeudi
 
+| Heure | <div style="width:550px">Tâches accomplies </div>                       |
+| ----- | ----------------------------------------------------------------------- |
+| 10:00 | Amélioration du manuel de démarrage                                     |
+| 11:00 | Changement de la lentille                                               |
+| 13:30 | Démarrage de l'installation avec Patricia                               |
+| 13:45 | Tests et debogue                                                        |
+| 14:30 | Couriels pour l'affichage de notre affiche                              |
+| 16:00 | Débranchement de l'ordinateur pour l'envoyer dans la salle des matrices |
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+
+  <img src="equipe/jade_hebert/av8.jpeg" alt="Changement des deux lentilles avec Mathieu" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+  <img src="equipe/jade_hebert/av9.jpeg" alt="Déplacement de l'ordinateur dans la salle des matrices" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+
+</div>
+
 #### Vendredi
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                                                 |
+| ----- | ------------------------------------------------------------------------------------------------- |
+| 12:00 | Démarrage de notre installation par les autres finissants afin d'améliorer le manuel de démarrage |
+| 13:00 | Modification du moyen de détection                                                                |
+| 14:00 | Stress Test                                                                                       |
+| 15:30 | Repositionement des lumières spotlights                                                           |
+| 16:00 | Découpage de l'indicatif de positionnement                                                        |
+
+<img src="equipe/jade_hebert/av10.jpg" 
+     alt="Modification du projet avec l'équipe Mammouths" 
+     style="width:100%; height:auto; border-radius:10px;">
+
+#### Dimanche
+
+| Heure | <div style="width:550px">Tâches accomplies </div>                                     |
+| ----- | ------------------------------------------------------------------------------------- |
+| 09:00 | Modification du projet pour voir des animaux différents dans les quatre télévisions   |
+| 10:00 | Ajustement de la bande sonore et ajout d'un Fade Out pour améliorer l'effet de boucle |
+| 10:20 | Tournage de l'installation finale                                                     |
+| 11:00 | Rangement de la table de travail                                                      |
+| 15:00 | Dernières modifications du manuel de démarrage selon les commentaires des pairs       |
+
+<img src="equipe/jade_hebert/demarrage.gif" 
+     alt="Démarrage de l'installation" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Semaine 8
 
