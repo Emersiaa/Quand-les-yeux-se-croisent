@@ -1,6 +1,3 @@
----
----
-
 # Félix Lavoie
 
 ![](photo_felix.jpg)
@@ -57,14 +54,14 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
-- Coriger la planification
-- Création d'un fichier xl pour le matériel
+- J'ais coriger la planificationé.
+- J'ais fait la création d'un fichier xl pour le matériel.
 
 #### Mardi
 
 - Validation du projet.
-- validation de la planafication.
-- s'assurer du fonctionnement de la capture de l'oeil
+- Validation de la planafication.
+- Je me suis assurer du fonctionnement de la capture de l'oeil.
 
 #### Mercredi
 
@@ -78,23 +75,23 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
-- assemblage de l'étalage
-- affichage de la video sur les tv par les raspberry pie
-- amélioration de la qualiter de la capture
-- placer les tv
+- J'ais assembler l'étalage.
+- J'ais fais l'affichage de la video sur les tv par les raspberry pie.
+- J'ais amélioré la qualiter de la capture.
+- J'ais placer les tv.
 
 #### Mercredi
 
-- placer les lumières
-- placer les speaker
-- installer les rapberry pie pour le partage du feed video dans le tv cathodique
-- commencer a installer les petits écran
-- création de l'interaction de la lumière
+- J'ais placer les lumières.
+- J'ais placer les speaker.
+- J'ais installer les rapberry pie pour le partage du feed video dans le tv cathodique.
+- J'ais commencer a installer les petits écran.
+- J'ais commencer l'interaction de la lumière.
 
 #### Jeudi
 
-- finition de la monture pour maquette 1
-- presenter la maquette 1
+- J'ais finit la monture pour maquette 1.
+- J'ais presenter la maquette 1
 
 #### Vendredi
 
@@ -104,18 +101,18 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
-- installer la deuxieme camera
-- reparer les lumière del
+- J'ais installer la deuxieme camera.
+- J'ais reparer les lumières led.  
 
 #### Mercredi
 
-- installer les petits ordis
-- changer le touch pour fonctioner sur les petits ordis
+- J'ais installer les petits ordis.
+- J'ais changer le touch pour fonctioner sur les petits ordis.
 
 #### Jeudi
 
-- faire des updates windows
-- optimisation des petits ordis
+- J'ais fait des updates windows.
+- J'ais optimisé Les petits ordis.
 
 #### Vendredi
 
@@ -123,25 +120,25 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
-- amelioration du touch des petits ordis
-- optimisation des petits ordis
-- création de l'échange de donner entre les petits ordis et le pc central
+- J'ais amelioré le touch des petits ordis.
+- J'ais optimisé Les petits ordis.
+- J'ais créé l'échange de donner entre les petits ordis et le pc central.
 
 #### Mardi
 
-- réinstalation des baton led
-- préparation des petits ordis
-- préparation pour le controle a distance des petits ordis
+- J'ais réinstalé les batons led.
+- J'ais préparé des petits ordis.
+- J'ais préparé les petits ordis pour le controle a distance.
 
 #### Mercredi
 
-- flasher les carte micro sd
-- faire en sorte que la communication entre les lumière fonctionnen
+- J'ais flasher les carte micro sd.
+- J'ais fait en sorte que la communication entre les lumière fonctionnen.
 
 #### Jeudi
 
-- installer les lumières au plafond
-- regler des probleme
+- J'ais installer les lumières au plafond.
+- J'ais regler des problemes.
 
 #### Vendredi
 
@@ -151,20 +148,20 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
-- test pre maque 2
+- J'ais testé avant la maquette 2.
 - presentation maquete 2
 
 #### Mercredi
 
 - démonter tout
 - remonter tou
-- changer les speaker pour 4 petits speaker
-- séparer l'ordi principale de l'installation
+- J'ais changer les speaker pour 4 petits speaker.
+- J'ais séparer l'ordi principale de l'installation.
 
 #### Jeudi
 
-- faire marcher les baton led séparément
-- réinstaller les spotlight
+- J'ais fait marcher les batons led séparément.
+- J'ais réinstaller les spotlights.
 
 #### Vendredi
 
@@ -172,8 +169,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Lundi
 
-- faire en sorte que les tests pour la captation des yeux soit plus facille a executer
-- tester et ameliorer la qualiter de la captation
+- J'ais fait en sorte que les tests pour la captation des yeux soit plus facille a executer.
+- J'ais tester et ameliorer la qualiter de la captation.
 
 #### Mardi
 
@@ -189,15 +186,15 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mardi
 
-- installer les lumières au plafond et faire leur logistique.
+- J'ais installer les lumières au plafond et fait leur logistique.
 
 #### Mercredi
 
 #### Jeudi
 
-- refaire la logic de tracking pour fonctionner avec les camera a l'enver
-- installer l'ordi principale dans la salle des matrice
-- nettoyer notre espace d'exposition
+- J'ais refait la logic de tracking pour fonctionner avec les cameras a l'enver.
+- J'ais installer l'ordi principale dans la salle des matrices.
+- J'ais nettoyer notre espace d'exposition.
 
 #### Vendredi
 
