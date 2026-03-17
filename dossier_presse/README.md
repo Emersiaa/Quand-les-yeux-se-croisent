@@ -20,7 +20,7 @@ Installation contemplative et interactive
 
 ### Site Web de l'exposition collective :
 
-[Réseau vivant](https://tim-montmorency.com/2026/#/)
+[![Lien du site web](reseau_vivant.gif)](https://tim-montmorency.com/2026/#/)
 
 ### Prix :
 
@@ -37,6 +37,10 @@ Gratuit
 ---
 
 Cette installation est née d’une idée originale imaginée par Patricia Nassif, portée par son amour pour les fleurs et les animaux. Présentée lors de la session précédente dans le cadre d’un projet final, la proposition a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à sa sensibilité et à son potentiel immersif. Convaincus par la pertinence du concept, les membres ont choisi de le développer collectivement pour donner naissance à l’installation **Quand les yeux se croisent**. Initialement pensé sous la forme d’un parcours, le projet a évolué vers une structure centrale autour de laquelle le visiteur circule librement. Grâce à une formation en rédaction de prompts et en génération d’images artificielles, le projet a également pris une autre dimension, mêlant création humaine et création artificielle, dans un dialogue entre technologie, regard et sensibilité.
+
+<img src="dossier_presse/plan_vs_installation.png" 
+     alt="De l'idée à la concrétisation" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Fonctionnalités
 
