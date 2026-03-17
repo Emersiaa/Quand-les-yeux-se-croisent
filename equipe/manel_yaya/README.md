@@ -1,6 +1,3 @@
----
----
-
 # Manel Yaya
 
 ![](photo_manel.jpg)

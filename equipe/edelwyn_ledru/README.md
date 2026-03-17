@@ -1,6 +1,3 @@
----
----
-
 # Edelwyn Ledru
 
 ![](photo_edelwyn.jpg)
