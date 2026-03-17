@@ -76,7 +76,7 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 
 ### Bande-annonce
 
-[![Lien vers la bande-annonce](bande_annonce.jpeg)](https://www.youtube.com/watch?v=kSw9bmIA6bc)
+[![Lien vers la bande-annonce](bande_annonce.png)](https://youtu.be/PYq4xPSagCM)
 
 ### Images
 
