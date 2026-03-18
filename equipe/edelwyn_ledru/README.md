@@ -238,13 +238,19 @@ Annulation de cours
 
 #### Jeudi
 
+- Tests de detection avec des personnes de differentes grandeurs
+
 #### Vendredi
 
 ### Semaine 8
 
 #### Lundi
 
+- Participation au debuggage de derniers bugs : renommage de route dans pure Data
+
 #### Mardi
+
+- Presentation
 
 #### Mercredi
 
