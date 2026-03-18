@@ -1,6 +1,3 @@
----
----
-
 # Jade Hébert
 
 ![](photo_jade.jpg)

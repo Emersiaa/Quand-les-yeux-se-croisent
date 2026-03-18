@@ -1,6 +1,3 @@
----
----
-
 # Patricia Nassif
 
 ![](photo_patricia.jpg)
