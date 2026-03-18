@@ -111,6 +111,10 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 
 <img src="dossier_presse/maquette2.gif" alt="Maquette 2 - Présentation au trou à l'horaire" style="width: 100%; height: 300px; object-fit: cover;">
 
+<br>
+
+<img src="dossier_presse/maquette_finale.gif" alt="Maquette finale" style="width: 100%; height: 300px; object-fit: cover;">
+
 ### À propos de l'équipe de création
 
 ---
