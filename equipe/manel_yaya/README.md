@@ -73,6 +73,7 @@ Création des premières ambiances sonores dans FL Studio. Tests de textures son
 
 #### Jeudi
 Début de la création du PowerPoint. Mise en place de la structure, ajout du concept, des intentions artistiques et des premières images de référence.
+![](powerpoint.png)
 
 #### Vendredi
 Finalisation de certaines diapositives du PowerPoint. Ajustements mineurs aux ambiances sonores commencées la veille
@@ -84,7 +85,7 @@ Rien
 
 #### Mardi
 Début de la création des sons interactifs de captation. Expérimentations avec des sons courts et réactifs pour créer une interaction immersive.
-
+ 
 #### Mercredi
 Création des sons d’environnement (vent, mer, feuilles). Superposition des couches sonores pour créer une ambiance naturelle et immersive.
 
@@ -145,13 +146,13 @@ Creation de sons d'animaux de lion et ...
 ### Semaine 6.5
 
 #### Lundi
-Faire le design de l'affiche du plan de l'ecole
+Faire le design de l'affiche du plan de l'ecole pour le comite de deambulation
 
 #### Mardi
 Continuation du design de l'affiche du plan d'ecole
 
 #### Mercredi
-Creation d'une animation de lumieres pour les lumieres DMX sur  QLC+
+Creation d'une animation de lumieres pour les lumieres DMX sur QLC+
 
 #### Jeudi
 Corrections de la bande sonore de la bande annonce apre les commentaires des eleves
@@ -175,11 +176,14 @@ Test des lumieres DMX, continuation de la bande sonore de la bande annonce
 ### Semaine 8
 
 #### Lundi
+Presentation
 
 #### Mardi
+
 
 #### Mercredi
 
 #### Jeudi
+Montage de la video de documentation finale
 
 #### Vendredi
