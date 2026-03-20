@@ -455,12 +455,32 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 ### Semaine 8
 
-#### Lundi
+#### Lundi au Jeudi - Exposition de 12h à 20h au Grand Studio
 
-#### Mardi
+| Journée | <div style="width:550px">Tâches accomplies </div>                                                      |
+| ------- | ------------------------------------------------------------------------------------------------------ |
+| Lundi   | Félix, Manel et Patricia ont rencontrés des groupes de la Technique                                    |
+| Mardi   | Rencontre libre dans la pause commune + Visite des groupes du cours Exposition Multimédia + Vernissage |
 
-#### Mercredi
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+  <img src="equipe/jade_hebert/maquette3.gif" alt="Visite des étudiants" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+  <img src="equipe/jade_hebert/vernissage.jpeg" alt="Vernissage" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+</div>
 
-#### Jeudi
+| Journée  | <div style="width:550px">Tâches accomplies </div>                 |
+| -------- | ----------------------------------------------------------------- |
+| Mercredi | Plan de tournage + Écriture du texte pour la documentation finale |
 
-#### Vendredi
+<img src="equipe/jade_hebert/plan_documentation.jpeg" alt="Plan du montage de la documentation" style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+
+| Journée | <div style="width:550px">Tâches accomplies </div>                                                |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| Jeudi   | **Dernière journée d'exposition** + Tournage final pour la documentation + Enregistrement des VO |
+
+<img src="equipe/jade_hebert/exposition.gif"
+     style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
+
+#### Vendredi - Démontage du projet
+
+<img src="equipe/jade_hebert/demontage.gif"
+     style="width: 100%; height: 300px; object-fit: cover; border-radius:10px;">
