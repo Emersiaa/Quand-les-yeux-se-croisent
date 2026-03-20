@@ -158,7 +158,7 @@ Rien
 
 #### Lundi
 
-creation de sons animaux, oiseaux et corbeau
+Rien
 
 #### Mardi
 
@@ -166,10 +166,14 @@ Creation de sons d'animaux (lion, oiseaux, corbeau)
 ![](animaux.png)
 
 #### Mercredi
+Ajout d'effets glitch pour rendre l'ambiance plus interessante
+![](glitch.png)
 
 #### Jeudi
 
+
 #### Vendredi
+Rien
 
 ### Semaine 6.5
 
@@ -196,15 +200,18 @@ Rien
 ### Semaine 7
 
 #### Lundi
+Rien
 
 #### Mardi
 
 Test des lumieres DMX, continuation de la bande sonore de la bande annonce
 
 #### Mercredi
+Montage de la video finale
 
 #### Jeudi
-
+Continuation du montage de la video final
+![](video_final.png)
 #### Vendredi
 
 ### Semaine 8
@@ -213,11 +220,14 @@ Test des lumieres DMX, continuation de la bande sonore de la bande annonce
 Presentation
 
 #### Mardi
-
+Presentation
 
 #### Mercredi
+Presentation
 
 #### Jeudi
 Montage de la video de documentation finale
+![](video_documentation.png)
+
 
 #### Vendredi
