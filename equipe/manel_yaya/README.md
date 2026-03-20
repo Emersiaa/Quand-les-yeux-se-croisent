@@ -82,6 +82,7 @@ Début de la création du PowerPoint. Mise en place de la structure, ajout du co
 #### Vendredi
 
 Finalisation de certaines diapositives du PowerPoint. Ajustements mineurs aux ambiances sonores commencées la veille
+![](powerpoint.png)
 
 ### Semaine 3
 
