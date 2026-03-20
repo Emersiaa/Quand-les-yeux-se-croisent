@@ -322,7 +322,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 | 15:30 | Recherche d'application pour animer nos animaux   |
 | 16:30 | Archivage                                         |
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7cc" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/AudRlfYYE7c" title="Image to 3D Interactive Particles - TouchDesigner Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:auto; border-radius:10px;"></iframe>
 
 #### Vendredi
 
