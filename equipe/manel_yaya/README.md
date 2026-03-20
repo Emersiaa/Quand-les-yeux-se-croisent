@@ -82,7 +82,6 @@ Début de la création du PowerPoint. Mise en place de la structure, ajout du co
 #### Vendredi
 
 Finalisation de certaines diapositives du PowerPoint. Ajustements mineurs aux ambiances sonores commencées la veille
-![](powerpoint.png)
 
 ### Semaine 3
 
@@ -93,14 +92,17 @@ Rien
 #### Mardi
 
 Début de la création des sons interactifs de captation. Expérimentations avec des sons courts et réactifs pour créer une interaction immersive.
+![](ambiances.png)
  
 #### Mercredi
 
 Création des sons d’environnement (vent, mer, feuilles). Superposition des couches sonores pour créer une ambiance naturelle et immersive.
 
+
 #### Jeudi
 
 Montage sonore combinant l’ambiance principale et les effets sonores d’environnement. Travail sur les transitions et l’équilibre sonore.
+![](ambiances_mer_feuilles.png)
 
 #### Vendredi
 
@@ -119,6 +121,7 @@ Réalisation des entrevues. Vérification de la qualité audio et vidéo après 
 #### Mercredi
 
 Montage sonore de la bande d'annonce
+![](montage.png)
 
 #### Jeudi
 
@@ -141,6 +144,7 @@ Ajout de variations de pitch dans l'ambiance sonore, rajour plus de bruits de na
 #### Mercredi
 
 Ajout d'une deuxieme ambiance sonore pour ameliorer l'interactivite, variation de pitch, rajout de bass
+![](pitch.png)
 
 #### Jeudi
 
@@ -158,7 +162,8 @@ creation de sons animaux, oiseaux et corbeau
 
 #### Mardi
 
-Creation de sons d'animaux de lion et ...
+Creation de sons d'animaux (lion, oiseaux, corbeau)
+![](animaux.png)
 
 #### Mercredi
 
@@ -177,10 +182,12 @@ Continuation du design de l'affiche du plan d'ecole
 
 #### Mercredi
 Creation d'une animation de lumieres pour les lumieres DMX sur QLC+
+![](anim.png)
 
 #### Jeudi
 
 Corrections de la bande sonore de la bande annonce apre les commentaires des eleves
+![](montage_final.png)
 
 #### Vendredi
 
