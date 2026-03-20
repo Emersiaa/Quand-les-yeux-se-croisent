@@ -81,6 +81,7 @@ Pas d'école
 #### Vendredi
 
 Début de la création du PowerPoint. Mise en place de la structure, ajout du concept, des intentions artistiques et des premières images de référence.
+
 ![](powerpoint.png)
 
 
@@ -92,6 +93,7 @@ Début de la création du PowerPoint. Mise en place de la structure, ajout du co
 #### Mardi
 
 Début de la création des sons interactifs de captation. Expérimentations avec des sons courts et réactifs pour créer une interaction immersive.
+
 ![](ambiances.png)
  
 #### Mercredi
@@ -102,6 +104,7 @@ Création des sons d’environnement (vent, mer, feuilles). Superposition des co
 #### Jeudi
 
 Montage sonore combinant l’ambiance principale et les effets sonores d’environnement. Travail sur les transitions et l’équilibre sonore.
+
 ![](ambiances_mer_feuilles.png)
 
 #### Vendredi
@@ -121,6 +124,7 @@ Réalisation des entrevues. Vérification de la qualité audio et vidéo après 
 #### Mercredi
 
 Montage sonore de la bande d'annonce
+
 ![](montage.png)
 
 #### Jeudi
@@ -143,6 +147,7 @@ Ajout de variations de pitch dans l'ambiance sonore, rajout de plus de bruits de
 #### Mercredi
 
 Ajout d'une deuxième ambiance sonore pour améliorer l'interactivité, variation de pitch, rajout de basses
+
 ![](pitch.png)
 
 #### Jeudi
@@ -160,14 +165,17 @@ Changement de l'ambiance sonore de la bande annonce
 #### Mardi
 
 Création de sons d'animaux (lion, oiseaux, corbeau)
+
 ![](animaux.png)
 
 #### Mercredi
 Ajout d'effets glitch pour rendre l'ambiance plus intéressante
+
 ![](glitch.png)
 
 #### Jeudi
 Ajout d'une ambiance bruit blanc pour faire rappel à l'aspect télévision de notre projet
+
 ![](bruit_blanc.png)
 #### Vendredi
 
@@ -182,11 +190,13 @@ Continuation du design de l'affiche du plan d'école
 
 #### Mercredi
 Création d'une animation de lumières pour les lumières DMX sur QLC+
+
 ![](anim.png)
 
 #### Jeudi
 
 Corrections de la bande sonore de la bande annonce après les commentaires des élèves
+
 ![](montage_final.png)
 
 #### Vendredi
@@ -204,6 +214,7 @@ Montage sonore de la vidéo finale
 
 #### Jeudi
 Continuation du montage sonore de la vidéo finale
+
 ![](video_final.png)
 
 #### Vendredi
@@ -221,6 +232,7 @@ Présentation.
 
 #### Jeudi
 Montage de la vidéo de documentation finale
+
 ![](video_documentation.png)
 
 
