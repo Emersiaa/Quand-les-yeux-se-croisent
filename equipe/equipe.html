@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+    <title>Document</title>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { background: #1c191b; font-family: 'Share Tech Mono', monospace; height: 100%; }
+    .tv-section { padding: 2rem 1rem 3rem; }
+    .tv-title { font-family: 'VT323', monospace; font-size: 2.8rem; color: #e8e8e0; letter-spacing: .15em; text-transform: uppercase; margin: 0 0 .25rem .5rem; }
+    .tv-subtitle { font-size: .65rem; color: #555; letter-spacing: .3em; text-transform: uppercase; margin: 0 0 2.5rem .6rem; }
+    .tv-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.2rem; max-width: 680px; margin: 0 auto; }
+    .tv-grid .row2 { grid-column: span 3; display: grid; grid-template-columns: repeat(2,1fr); gap: 1.2rem; max-width: calc((680px - 2.4rem)/3*2 + 1.2rem); margin: 0 auto; }
+    .tv-wrap { position: relative; cursor: pointer; }
+    .tv-body { background: linear-gradient(160deg,#2a2a2a 0%,#1a1a1a 100%); border-radius: 8px 8px 12px 12px; padding: 10px 10px 20px; border: 2px solid #333; box-shadow: inset 0 2px 4px #000,0 4px 12px #000; position: relative; transition: transform .15s ease; }
+    .tv-wrap:hover .tv-body { transform: scale(1.04); border-color: #ff00aa; box-shadow: inset 0 2px 4px #000,0 4px 24px rgba(0,255,136,.25); }
+    .tv-screen-border { background: #111; border-radius: 6px; padding: 5px; border: 2px solid #000; box-shadow: inset 0 0 8px #000; aspect-ratio: 4/3; overflow: hidden; position: relative; }
+    .tv-screen { width: 100%; height: 100%; border-radius: 4px; background: #1a1a1a; overflow: hidden; position: relative; }
+    .tv-screen img { width: 100%; height: 100%; object-fit: cover; object-position: center top; filter: grayscale(30%) contrast(1.1) brightness(.9); display: block; }
+    .tv-scanlines { position: absolute; inset: 0; background: repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.15) 2px,rgba(0,0,0,.15) 4px); pointer-events: none; z-index: 2; }
+    .tv-glare { position: absolute; top: 0; left: 0; width: 40%; height: 35%; background: radial-gradient(ellipse at 30% 30%,rgba(255,255,255,.08),transparent 70%); pointer-events: none; z-index: 3; border-radius: 50%; }
+    .tv-name-overlay { position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent,rgba(0,0,0,.92)); padding: 18px 8px 6px; z-index: 5; opacity: 0; transition: opacity .25s ease; text-align: center; }
+    .tv-wrap:hover .tv-name-overlay { opacity: 1; }
+    .tv-name { font-family: 'VT323', monospace; font-size: 1.1rem; color: #ff00aa; letter-spacing: .08em; text-shadow: 0 0 8px rgba(0,255,136,.6); display: block; }
+    .tv-controls { display: flex; justify-content: flex-end; align-items: center; gap: 5px; padding: 4px 2px 0; }
+    .tv-btn { width: 7px; height: 7px; border-radius: 50%; background: #333; border: 1px solid #444; }
+    .tv-btn.red { background: #8a1a1a; }
+    .tv-antenna-base { position: absolute; top: -16px; left: 50%; transform: translateX(-50%); width: 30px; height: 16px; }
+    .tv-antenna-l, .tv-antenna-r { position: absolute; bottom: 0; width: 2px; height: 14px; background: #3a3a3a; border-radius: 2px; }
+    .tv-antenna-l { left: 9px; transform: rotate(-25deg); transform-origin: bottom center; }
+    .tv-antenna-r { right: 9px; transform: rotate(25deg); transform-origin: bottom center; }
+  </style>
+</head>
+<body>
+<div class="tv-section">
+  <div class="tv-grid">
+
+    <div class="tv-wrap" onclick="top.location.href='https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/equipe/edelwyn_ledru/'">
+      <div class="tv-body">
+        <div class="tv-antenna-base"><div class="tv-antenna-l"></div><div class="tv-antenna-r"></div></div>
+        <div class="tv-screen-border"><div class="tv-screen">
+          <img src="photo_edelwyn.jpg" alt="Edelwyn Ledru">
+          <div class="tv-scanlines"></div><div class="tv-glare"></div>
+          <div class="tv-name-overlay"><span class="tv-name">EDELWYN LEDRU</span></div>
+        </div></div>
+        <div class="tv-controls"><div class="tv-btn red"></div><div class="tv-btn"></div><div class="tv-btn"></div></div>
+      </div>
+    </div>
+
+    <div class="tv-wrap" onclick="top.location.href='https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/equipe/felix_lavoie/'">
+      <div class="tv-body">
+        <div class="tv-antenna-base"><div class="tv-antenna-l"></div><div class="tv-antenna-r"></div></div>
+        <div class="tv-screen-border"><div class="tv-screen">
+          <img src="photo_felix.jpg" alt="Félix Lavoie">
+          <div class="tv-scanlines"></div><div class="tv-glare"></div>
+          <div class="tv-name-overlay"><span class="tv-name">FÉLIX LAVOIE</span></div>
+        </div></div>
+        <div class="tv-controls"><div class="tv-btn red"></div><div class="tv-btn"></div><div class="tv-btn"></div></div>
+      </div>
+    </div>
+
+    <div class="tv-wrap" onclick="top.location.href='https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/equipe/jade_hebert/'">
+      <div class="tv-body">
+        <div class="tv-antenna-base"><div class="tv-antenna-l"></div><div class="tv-antenna-r"></div></div>
+        <div class="tv-screen-border"><div class="tv-screen">
+          <img src="photo_jade.jpg" alt="Jade Hébert">
+          <div class="tv-scanlines"></div><div class="tv-glare"></div>
+          <div class="tv-name-overlay"><span class="tv-name">JADE HÉBERT</span></div>
+        </div></div>
+        <div class="tv-controls"><div class="tv-btn red"></div><div class="tv-btn"></div><div class="tv-btn"></div></div>
+      </div>
+    </div>
+
+    <div class="row2">
+      <div class="tv-wrap" onclick="top.location.href='https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/equipe/manel_yaya/'">
+        <div class="tv-body">
+          <div class="tv-antenna-base"><div class="tv-antenna-l"></div><div class="tv-antenna-r"></div></div>
+          <div class="tv-screen-border"><div class="tv-screen">
+            <img src="photo_manel.jpg" alt="Manel Yaya">
+            <div class="tv-scanlines"></div><div class="tv-glare"></div>
+            <div class="tv-name-overlay"><span class="tv-name">MANEL YAYA</span></div>
+          </div></div>
+          <div class="tv-controls"><div class="tv-btn red"></div><div class="tv-btn"></div><div class="tv-btn"></div></div>
+        </div>
+      </div>
+
+      <div class="tv-wrap" onclick="top.location.href='https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/equipe/patricia_nassif/'">
+        <div class="tv-body">
+          <div class="tv-antenna-base"><div class="tv-antenna-l"></div><div class="tv-antenna-r"></div></div>
+          <div class="tv-screen-border"><div class="tv-screen">
+            <img src="photo_patricia.jpg" alt="Patricia Nassif">
+            <div class="tv-scanlines"></div><div class="tv-glare"></div>
+            <div class="tv-name-overlay"><span class="tv-name">PATRICIA NASSIF</span></div>
+          </div></div>
+          <div class="tv-controls"><div class="tv-btn red"></div><div class="tv-btn"></div><div class="tv-btn"></div></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

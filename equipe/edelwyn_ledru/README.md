@@ -103,15 +103,15 @@ Intégration dans Touchdesigner :
 
 - Connecter TouchDesigner et Reaper via l'osc
 - Réglage de bugs :
- - L'osc était dans le mauvais channel du à un offset dans pure Data
- - Changement de frame sans l'effet glitch
+- L'osc était dans le mauvais channel du à un offset dans pure Data
+- Changement de frame sans l'effet glitch
 - Ajouter les sons dans reaper
 
 #### Jeudi
 
-- Tentative de reglage de bug : 
- - Empêchement de mettre l'animation des batons LED sur la capture parce que c'est connecté à la caméra
- - Optimization de la sauvegarde des yeux
+- Tentative de reglage de bug :
+- Empêchement de mettre l'animation des batons LED sur la capture parce que c'est connecté à la caméra
+- Optimization de la sauvegarde des yeux
 - Participation au tournage de la bande-annonce
 
 #### Vendredi
@@ -151,7 +151,7 @@ Absente (maladie)
 
 #### Mardi
 
-- Connection OSC entre les differents ordis 
+- Connection OSC entre les differents ordis
 - petit réglage sur l'effet des yeux d'animaux
 
 ![](photo_3_ecrans_touch_02-17.jpg)
@@ -183,12 +183,12 @@ Absente (maladie)
 #### Mardi
 
 - Tests du son (du au manque de temps, on a pas pu les régler) :
- - Déclanchement du bruit de détection
+- Déclanchement du bruit de détection
 
 #### Mercredi
 
 - participation au deplacement de l'oeuvre et du nouveau branchement
-![](deplacement_installation.jpg)
+  ![](deplacement_installation.jpg)
 
 #### Jeudi
 
@@ -203,14 +203,14 @@ Absente (maladie)
 #### Lundi
 
 - Tests de détection :
- - Tests avec une différente donnée + distance entre les yeux (réussite mais un peu lente)
+- Tests avec une différente donnée + distance entre les yeux (réussite mais un peu lente)
 
 #### Mardi
 
-- Optimisation du son dans pure Data : ajouter une transition 
-![](capture_ecran_pd.png)
+- Optimisation du son dans pure Data : ajouter une transition
+  ![](capture_ecran_pd.png)
 - Intégration de l'effet de Jade dans touchDesigner
-![](capture_ecran_effet_glitch_integration.png)
+  ![](capture_ecran_effet_glitch_integration.png)
 
 #### Mercredi
 
@@ -225,6 +225,7 @@ Absente (maladie)
 #### Mardi
 
 Dans touchdesigner :
+
 - Intégration du code de Félix pour l'enregistrement des yeux
 - Intégration de l'effet particule complet de Jade
 - Ajout d'un 2e dossier pour le côté verso de l'installation pour les vidéos de yeux dans la boucle et d'un chronomètre qui rafraichi le folder DAT au chaque 10 secondes
@@ -233,9 +234,11 @@ Dans touchdesigner :
 
 #### Mercredi
 
-Annulation de cours 
+Annulation de cours
 
 #### Jeudi
+
+- Tests de detection avec des personnes de differentes grandeurs
 
 #### Vendredi
 
@@ -243,7 +246,11 @@ Annulation de cours
 
 #### Lundi
 
+- Participation au debuggage de derniers bugs : renommage de route dans pure Data
+
 #### Mardi
+
+- Presentation
 
 #### Mercredi
 

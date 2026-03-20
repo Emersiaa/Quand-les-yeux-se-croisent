@@ -20,7 +20,7 @@ Installation contemplative et interactive
 
 ### Site Web de l'exposition collective :
 
-[Réseau vivant](https://tim-montmorency.com/2026/#/)
+[![Lien du site web](reseau_vivant.gif)](https://tim-montmorency.com/2026/#/)
 
 ### Prix :
 
@@ -37,6 +37,10 @@ Gratuit
 ---
 
 Cette installation est née d’une idée originale imaginée par Patricia Nassif, portée par son amour pour les fleurs et les animaux. Présentée lors de la session précédente dans le cadre d’un projet final, la proposition a suscité un fort intérêt au sein de l’équipe, qui a rapidement adhéré à sa sensibilité et à son potentiel immersif. Convaincus par la pertinence du concept, les membres ont choisi de le développer collectivement pour donner naissance à l’installation **Quand les yeux se croisent**. Initialement pensé sous la forme d’un parcours, le projet a évolué vers une structure centrale autour de laquelle le visiteur circule librement. Grâce à une formation en rédaction de prompts et en génération d’images artificielles, le projet a également pris une autre dimension, mêlant création humaine et création artificielle, dans un dialogue entre technologie, regard et sensibilité.
+
+<img src="dossier_presse/plan_vs_installation.png" 
+     alt="De l'idée à la concrétisation" 
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### Fonctionnalités
 
@@ -76,22 +80,19 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 
 ### Bande-annonce
 
-[![Lien vers la bande-annonce](bande_annonce.jpeg)](https://www.youtube.com/watch?v=kSw9bmIA6bc)
+[![Lien vers la bande-annonce](bande_annonce.png)](https://youtu.be/PYq4xPSagCM)
 
 ### Images
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
-
   <img src="dossier_presse/img_03.jpg" style="width: 100%; height: 300px; object-fit: cover;">
   <img src="dossier_presse/img_04.jpg" style="width: 100%; height: 300px; object-fit: cover;">
-
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 8px">
   <img src="dossier_presse/img_01.jpg" style="width: 100%; height: 300px; object-fit: cover;">
   <img src="dossier_presse/img_02.jpg" style="width: 100%; height: 300px; object-fit: cover;">
   <img src="dossier_presse/img_05.jpg" style="width: 100%; height: 300px; object-fit: cover;">
-
 </div>
  
 <br>
@@ -100,7 +101,19 @@ Cette installation est née d’une idée originale imaginée par Patricia Nassi
 
 <br>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 8px">
+  <img src="dossier_presse/img_06.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_07.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+  <img src="dossier_presse/img_08.jpg" style="width: 100%; height: 300px; object-fit: cover;">
+</div>
+
+<br>
+
 <img src="dossier_presse/maquette2.gif" alt="Maquette 2 - Présentation au trou à l'horaire" style="width: 100%; height: 300px; object-fit: cover;">
+
+<br>
+
+<img src="dossier_presse/maquette_finale.gif" alt="Maquette finale" style="width: 100%; height: 300px; object-fit: cover;">
 
 ### À propos de l'équipe de création
 
@@ -114,7 +127,7 @@ Elle est responsable du contenu visuel de l’exposition. Elle crée l’ensembl
 
 #### Jade Hébert – Coordonnatrice
 
-Elle orchestre le travail de l’équipe, établit les objectifs et fixe les échéances. Elle veille à la cohésion entre les différents pôles du projet, en plus de superviser les achats et l’installation de l’œuvre.
+Elle orchestre le travail de l’équipe, établit les objectifs et fixe les échéances. Elle veille à la cohésion entre les différents pôles du projet, en plus de superviser les achats et l’installation de l’œuvre. Elle est également responsable de l’archivage et de l’organisation des documents du projet.
 
 #### Manel Yaya – Directrice audiovisuelle
 
@@ -122,7 +135,7 @@ Elle est responsable de l’ensemble de l’aspect sonore du projet, autant pour
 
 #### Edelwyn Ledru – Intégratrice de projet et designer
 
-Elle assure le développement fonctionnel de l’installation, incluant les animations des médias et la programmation des effets lumineux. Elle est également responsable de l’archivage et de l’organisation des documents du projet.
+Elle assure le développement fonctionnel de l’installation, incluant les animations des médias et la programmation des effets lumineux. Elle s'occupe de faire les tests et de pousser le plus possible le projet pour le rendre à la fois visuellement beau, mais tout aussi fonctionnel.
 
 #### Félix Lavoie – Technicien et programmeur
 
