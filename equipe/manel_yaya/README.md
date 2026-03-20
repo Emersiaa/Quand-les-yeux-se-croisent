@@ -76,18 +76,18 @@ Création des premières ambiances sonores dans FL Studio. Tests de textures son
 
 #### Jeudi
 
-Début de la création du PowerPoint. Mise en place de la structure, ajout du concept, des intentions artistiques et des premières images de référence.
-![](powerpoint.png)
+Pas d'ecole
 
 #### Vendredi
 
-Finalisation de certaines diapositives du PowerPoint. Ajustements mineurs aux ambiances sonores commencées la veille
+Début de la création du PowerPoint. Mise en place de la structure, ajout du concept, des intentions artistiques et des premières images de référence.
+![](powerpoint.png)
+
 
 ### Semaine 3
 
 #### Lundi
 
-Rien
 
 #### Mardi
 
@@ -129,7 +129,6 @@ continuation de la bande d'annonce
 
 #### Vendredi
 
-Rien
 
 ### Semaine 5
 
@@ -152,13 +151,11 @@ changement de l'ambiance sonore de la bande annonce
 
 #### Vendredi
 
-Rien
 
 ### Semaine 6
 
 #### Lundi
 
-Rien
 
 #### Mardi
 
@@ -170,10 +167,9 @@ Ajout d'effets glitch pour rendre l'ambiance plus interessante
 ![](glitch.png)
 
 #### Jeudi
-
-
+Ajout d'une ambiance buit blanc pour faire rappelle a l'aspect televison de notre projet
+![](bruit_blanc.png)
 #### Vendredi
-Rien
 
 ### Semaine 6.5
 
@@ -195,39 +191,41 @@ Corrections de la bande sonore de la bande annonce apre les commentaires des ele
 
 #### Vendredi
 
-Rien
+
 
 ### Semaine 7
 
 #### Lundi
-Rien
+
 
 #### Mardi
 
 Test des lumieres DMX, continuation de la bande sonore de la bande annonce
 
 #### Mercredi
-Montage de la video finale
+Montage sonore de la video finale
 
 #### Jeudi
-Continuation du montage de la video final
+Continuation du montage sonore de la video final
 ![](video_final.png)
+
 #### Vendredi
 
 ### Semaine 8
 
 #### Lundi
-Presentation
+Présentation.
 
 #### Mardi
-Presentation
+Présentation.
 
 #### Mercredi
-Presentation
+Présentation.
 
 #### Jeudi
-Montage de la video de documentation finale
+Montage de la video de documentation final
 ![](video_documentation.png)
 
 
 #### Vendredi
+Démonter l'installation.
