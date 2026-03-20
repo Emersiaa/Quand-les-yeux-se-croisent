@@ -76,7 +76,7 @@ Création des premières ambiances sonores dans FL Studio. Tests de textures son
 
 #### Jeudi
 
-Pas d'ecole
+Pas d'école
 
 #### Vendredi
 
@@ -125,7 +125,7 @@ Montage sonore de la bande d'annonce
 
 #### Jeudi
 
-continuation de la bande d'annonce
+Continuation de la bande d'annonce
 
 #### Vendredi
 
@@ -134,20 +134,20 @@ continuation de la bande d'annonce
 
 #### Lundi
 
-Assemblage de la maquette 2 , rajout de l'ambiance sonore dans l'installation, changement de l'ambiance trop statique
+Assemblage de la maquette 2, rajout de l'ambiance sonore dans l'installation, changement de l'ambiance trop statique
 
 #### Mardi
 
-Ajout de variations de pitch dans l'ambiance sonore, rajour plus de bruits de natures
+Ajout de variations de pitch dans l'ambiance sonore, rajout de plus de bruits de nature
 
 #### Mercredi
 
-Ajout d'une deuxieme ambiance sonore pour ameliorer l'interactivite, variation de pitch, rajout de bass
+Ajout d'une deuxième ambiance sonore pour améliorer l'interactivité, variation de pitch, rajout de basses
 ![](pitch.png)
 
 #### Jeudi
 
-changement de l'ambiance sonore de la bande annonce
+Changement de l'ambiance sonore de la bande annonce
 
 #### Vendredi
 
@@ -159,54 +159,51 @@ changement de l'ambiance sonore de la bande annonce
 
 #### Mardi
 
-Creation de sons d'animaux (lion, oiseaux, corbeau)
+Création de sons d'animaux (lion, oiseaux, corbeau)
 ![](animaux.png)
 
 #### Mercredi
-Ajout d'effets glitch pour rendre l'ambiance plus interessante
+Ajout d'effets glitch pour rendre l'ambiance plus intéressante
 ![](glitch.png)
 
 #### Jeudi
-Ajout d'une ambiance buit blanc pour faire rappelle a l'aspect televison de notre projet
+Ajout d'une ambiance bruit blanc pour faire rappel à l'aspect télévision de notre projet
 ![](bruit_blanc.png)
 #### Vendredi
 
 ### Semaine 6.5
 
 #### Lundi
-Faire le design de l'affiche du plan de l'ecole pour le comite de deambulation
+Faire le design de l'affiche du plan de l'école pour le comité de déambulation
 
 #### Mardi
 
-Continuation du design de l'affiche du plan d'ecole
+Continuation du design de l'affiche du plan d'école
 
 #### Mercredi
-Creation d'une animation de lumieres pour les lumieres DMX sur QLC+
+Création d'une animation de lumières pour les lumières DMX sur QLC+
 ![](anim.png)
 
 #### Jeudi
 
-Corrections de la bande sonore de la bande annonce apre les commentaires des eleves
+Corrections de la bande sonore de la bande annonce après les commentaires des élèves
 ![](montage_final.png)
 
 #### Vendredi
-
-
 
 ### Semaine 7
 
 #### Lundi
 
-
 #### Mardi
 
-Test des lumieres DMX, continuation de la bande sonore de la bande annonce
+Test des lumières DMX, continuation de la bande sonore de la bande annonce
 
 #### Mercredi
-Montage sonore de la video finale
+Montage sonore de la vidéo finale
 
 #### Jeudi
-Continuation du montage sonore de la video final
+Continuation du montage sonore de la vidéo finale
 ![](video_final.png)
 
 #### Vendredi
@@ -223,7 +220,7 @@ Présentation.
 Présentation.
 
 #### Jeudi
-Montage de la video de documentation final
+Montage de la vidéo de documentation finale
 ![](video_documentation.png)
 
 
