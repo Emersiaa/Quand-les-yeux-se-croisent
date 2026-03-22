@@ -265,7 +265,7 @@ style="width:100%; height:auto; border-radius:10px;">
 - Présentation et vernissage.
 
 #### Mercredi
-– Refaire entièrement la vidéo de documentation finale : enregistrer les voix, puis reprendre le montage.
+- Refaire entièrement la vidéo de documentation finale : enregistrer les voix, puis reprendre le montage.
 
 #### Jeudi
 
