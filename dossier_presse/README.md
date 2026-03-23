@@ -143,7 +143,7 @@ Il s’occupe du matériel technique et des branchements. Il programme les diff�
 
 ### Crédits
 
-Un énorme merci aux TTP, Mathieu Willett et à nos professeurs Thomas O Frederiks et Guillaume Arsenault.
+Un énorme merci aux TTP, Mathieu Willett et à nos professeurs Thomas O Fredericks et Guillaume Arsenault.
 
 ### Contact
 
