@@ -237,4 +237,4 @@ Montage de la vidéo de documentation finale
 
 
 #### Vendredi
-Démonter l'installation.
+Absente
