@@ -254,6 +254,11 @@ Annulation de cours
 
 #### Mercredi
 
+- Presentation
+
 #### Jeudi
 
+- Presentation
+
 #### Vendredi
+- Participation au démontage
