@@ -22,4 +22,4 @@ Cette section décrit les étapes nécessaires pour ouvrir l’installation chaq
 
 ## Documentation vidéo finale
 
-[Lien vers la vidéo finale](https://youtu.be/WkV4HxXEee4)
+[Lien vers la vidéo finale](https://youtu.be/RvBnTByCqKU)
