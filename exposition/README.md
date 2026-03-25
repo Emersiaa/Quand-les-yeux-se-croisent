@@ -12,7 +12,6 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 | Mardi    | 11h à 20h | Patricia Nassif et Jade Hébert              |
 | Mercredi | 11h à 20h | Edelwyn Ledru, Manel Yaya et Félix Lavoie   |
 | Jeudi    | 11h à 20h | Jade Hébert, Edelwyn Ledru et Manel Yaya    |
-| Vendredi | 11h à 20h | Toutes l'équipe d'Emersia                   |
 
 ## Procédure d’ouveture quotidienne
 
@@ -20,6 +19,6 @@ Cette section décrit les étapes nécessaires pour ouvrir l’installation chaq
 
 [![](manuel.png)](https://cmontmorency365-my.sharepoint.com/:p:/g/personal/2366906_cmontmorency_qc_ca/IQB4jG9_nB8wSKxrJXDVvkz0AZkd3M1SxPAFT7RPPOKL3d8?e=gdaaHl)
 
-## Documentation vidéo finale
+## Documentation documentation finale
 
-[Lien vers la vidéo finale](https://youtu.be/RvBnTByCqKU)
+[![Lien vers la documentation finale](bande_annonce.png)](https://youtu.be/7kv9045RxrI)
